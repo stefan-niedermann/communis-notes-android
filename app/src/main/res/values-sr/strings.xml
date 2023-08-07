@@ -167,7 +167,7 @@
     <string name="error_dialog_server_app_enabled">Проверите да ли сте инсталирали и укључили апликацију „Белешке” на Вашем серверу.</string>
     <string name="error_dialog_redirect">Сервер је одговорио са HTTP 302 кодом, што значи да немате инсталирану апликацију Белешке или да Вам сервер није правилно конфигурисан. Ово може да буде проузорковано произвољним додавањима у .htaccess фајлу или другим Некстклауд апликацијама као што је OID Client.</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Искључите све оптимизације батерије за Некстаклауд и Белешке апликације.</string>
-    <string name="error_dialog_min_version">The Андроид апликација Белешке захтева да је верзија Nextcloud Андроид апликације барем 3.18.</string>
+    <string name="error_dialog_min_version">The Андроид апликација Белешке захтева да је верзија Communis Андроид апликације барем 3.18.</string>
     <string name="added_content">Додата „%1$s”</string>
     <string name="shared_text_empty">Дељени текст је празан</string>
     <string name="append_to_note">Додај на белешку</string>
@@ -229,7 +229,7 @@
     <string name="formatting_help_cbf_body_2">Само одаберите опсег текста или тапните курсором на било које место и добићете искачући мени који садржи подразумеване уносе %1$s, %2$s, %3$s уносе као %4$s или%5$s.</string>
 
     <string name="formatting_help_text_title">Текст</string>
-    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка Нексткладу](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка Нексткладу](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Спискови</string>
     <string name="formatting_help_lists_body_1">Некад желите нумерисане листе:</string>
@@ -296,14 +296,14 @@
     <string name="simple_prev">Претходно</string>
     <string name="simple_backup">Резервна копија</string>
     <string name="backup">Открили смо стање апликације које не може да се опорави. Молимо вас да направите резервну копију ваших несихронизованих измена и очистите складиште Notes апликације.</string>
-    <string name="settings_notes_path_description">Фолдер у којем се на вашем Nextcloud серверу чувају белешке</string>
+    <string name="settings_notes_path_description">Фолдер у којем се на вашем Communis серверу чувају белешке</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Нови фолдер за белешке: %1$s</string>
     <string name="settings_file_suffix">Екстензија фајла</string>
-    <string name="settings_file_suffix_description">Екстензија фајла за нове белешке на вашем Nextcloud серверу</string>
+    <string name="settings_file_suffix_description">Екстензија фајла за нове белешке на вашем Communis серверу</string>
     <string name="settings_file_suffix_success">Суфикс новог фајла: %1$s</string>
     <string name="http_status_code">HTTP статусни кôд: %1$d</string>
     <string name="progress_import_indeterminate">Белешке се увозе...</string>

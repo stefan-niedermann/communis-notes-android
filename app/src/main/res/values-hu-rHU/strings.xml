@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Jegyzetek</string>
-    <string name="app_name_long">Nextcloud jegyzetek</string>
+    <string name="app_name_long">Communis jegyzetek</string>
     <string name="label_all_notes">Minden jegyzet</string>
     <string name="label_favorites">Kedvencek</string>
     <string name="action_create">Új jegyzet</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Fejlesztők</string>
     <string name="about_developers_original_author">eredeti szerző</string>
     <string name="about_translators_title">Fordítók</string>
-    <string name="about_translators_transifex">Nextcloud közösség a %1$s</string>
+    <string name="about_translators_transifex">Communis közösség a %1$s</string>
     <string name="about_testers_title">Tesztelők</string>
     <string name="about_source_title">Forráskód</string>
     <string name="about_source">A projekt a GitHubon található: %1$s</string>
     <string name="about_issues_title">Hibajegyek</string>
     <string name="about_issues">Hibákat jelenthet, fejlesztési javaslatokat adhat és funkciókat kérhet a GitHub hibakövetőjében: %1$s</string>
     <string name="about_translate_title">Fordítás</string>
-    <string name="about_translate">Csatlakozzon a Nextcloud csapathoz a Transifexen, és segítsen az alkalmazás lefordításában: %1$s</string>
+    <string name="about_translate">Csatlakozzon a Communis csapathoz a Transifexen, és segítsen az alkalmazás lefordításában: %1$s</string>
     <string name="about_app_license_title">Alkalmazás licence</string>
     <string name="about_app_license">Ez az alkalmazás GNU GENERAL PUBLIC LICENSE v3+ alatt kerül közreadásra.</string>
     <string name="about_app_license_button">Licenc megtekintése</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">Jelölőmező</string>
     <string name="unlock_notes">Jegyzetek feloldása</string>
     <string name="error_dialog_title">Jaj ne – Most mi legyen? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Próbálja kényszeríteni az alkalmazás bezárását, és indítsa újra. Lehet, hogy hibás volt a kapcsolat a többi Nextcloud alkalmazással.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Ha a probléma továbbra is fennáll, próbálja kiüríteni mindkét alkalmazás tárolóját: a Nextcloudét és a Nextcloud Jegyzetekét.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Próbálja kényszeríteni az alkalmazás bezárását, és indítsa újra. Lehet, hogy hibás volt a kapcsolat a többi Communis alkalmazással.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Ha a probléma továbbra is fennáll, próbálja kiüríteni mindkét alkalmazás tárolóját: a Communisét és a Communis Jegyzetekét.</string>
     <string name="error_dialog_tip_clear_storage">Törölheti a tárhelyet az alkalmazás adatainak megnyitásával, és válassza a Tárolás → Tárolás törlése lehetőséget. ⚠️ Figyelem: Ezzel törli a még nem szinkronizált jegyzeteket!</string>
-    <string name="error_dialog_tip_files_outdated">A Nextcloud alkalmazása elavultnak tűnik. Keresse fel a Play Áruházat vagy az F-Droidot, hogy beszerezze a legfrissebb verziót.</string>
-    <string name="error_dialog_tip_files_force_stop">Valami hibásnak tűnik a Nextcloud alkalmazásában. Próbálja mindkettőt leállítani, a Nextcloud és a Nextcloud Jegyzetek alkalmazást is.</string>
+    <string name="error_dialog_tip_files_outdated">A Communis alkalmazása elavultnak tűnik. Keresse fel a Play Áruházat vagy az F-Droidot, hogy beszerezze a legfrissebb verziót.</string>
+    <string name="error_dialog_tip_files_force_stop">Valami hibásnak tűnik a Communis alkalmazásában. Próbálja mindkettőt leállítani, a Communis és a Communis Jegyzetek alkalmazást is.</string>
     <string name="error_dialog_tip_files_delete_storage">Ha a kényszerített leállítás nem segít, akkor megpróbálhatja mindkét alkalmazás tárolóját kiüríteni.</string>
     <string name="error_dialog_timeout_instance">A megadott időn belül nem érkezett válasz a kiszolgálótól. Győződjön meg róla, hogy a példánya helyesen fut.</string>
     <string name="error_dialog_timeout_toggle">Ellenőrizze a hálózati kapcsolatát. Néha a mobil adathasználat vagy a Wi-Fi ki- és bekapcsolása is segíthet.</string>
     <string name="error_dialog_check_server">A kiszolgáló válasza helytelen volt. Ellenőrizze, hogy eléri-e a Jegyzetek alkalmazást a webes felületen keresztül.</string>
-    <string name="error_dialog_check_server_logs">Hiba van a Nextcloudja beállításaiban. Nézzen bele a kiszolgáló naplófájljaiba.</string>
-    <string name="error_dialog_check_maintenance">Ellenőrizze, hogy a Nextcloud példánya nincs-e karbantartási módban.</string>
-    <string name="error_dialog_insufficient_storage">A Nextcloud példányán elfogyott a szabad hely. Töröljön pár fájlt, hogy szinkronizálhassa a helyi változtatásait a felhővel.</string>
+    <string name="error_dialog_check_server_logs">Hiba van a Communisja beállításaiban. Nézzen bele a kiszolgáló naplófájljaiba.</string>
+    <string name="error_dialog_check_maintenance">Ellenőrizze, hogy a Communis példánya nincs-e karbantartási módban.</string>
+    <string name="error_dialog_insufficient_storage">A Communis példányán elfogyott a szabad hely. Töröljön pár fájlt, hogy szinkronizálhassa a helyi változtatásait a felhővel.</string>
     <string name="error_dialog_we_need_info">A következő műszaki információkra van szükségünk, hogy segíthessünk:</string>
     <string name="error_dialog_server_app_enabled">Bizonyosodjon meg róla, hogy telepítette és bekapcsolta a „Jegyzetek” alkalmazást a szerverén.</string>
-    <string name="error_dialog_redirect">A kiszolgálója 302-es HTTP állapotkóddal válaszolt, amely arra utal, hogy nincs telepítve a Jegyzetek alkalmazás a kiszolgálón, vagy valami hibásan van beállítva. Ezt egyéni felülírások is okozhatják, mint egy .htaccess-fájl vagy az OID klienshez hasonló Nextcloud alkalmazások.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Kapcsoljon ki minden energiatakarékossági beállítást a Nextcloud valamint a Jegyzetek alkalmazáshoz.</string>
-    <string name="error_dialog_min_version">A Jegyzetek androidos alkalmazáshoz a Nextcloud androidos alkalmazásnak legalább a 3.18-as verziója szükséges.</string>
+    <string name="error_dialog_redirect">A kiszolgálója 302-es HTTP állapotkóddal válaszolt, amely arra utal, hogy nincs telepítve a Jegyzetek alkalmazás a kiszolgálón, vagy valami hibásan van beállítva. Ezt egyéni felülírások is okozhatják, mint egy .htaccess-fájl vagy az OID klienshez hasonló Communis alkalmazások.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Kapcsoljon ki minden energiatakarékossági beállítást a Communis valamint a Jegyzetek alkalmazáshoz.</string>
+    <string name="error_dialog_min_version">A Jegyzetek androidos alkalmazáshoz a Communis androidos alkalmazásnak legalább a 3.18-as verziója szükséges.</string>
     <string name="added_content">„%1$s” hozzáadva</string>
     <string name="shared_text_empty">A megosztott szöveg üres volt</string>
     <string name="append_to_note">Hozzáfűzés a jegyzethez</string>
@@ -225,7 +225,7 @@
     <string name="formatting_help_cbf_body_2">Csak válasszon ki egy szövegtartományt, vagy érintse meg bárhol a kurzort, és megjelenik egy előugró menü, amely az alapértelmezett %1$s, %2$s, %3$s bejegyzések mellett ezeket is tartalmazza: %4$s, %5$s.</string>
 
     <string name="formatting_help_text_title">Szöveg</string>
-    <string name="formatting_help_text_body">Nagyon egyszerűen írhat Markdownnal %1$sfélkövéren%1$s, valamint %2$sdőlten%2$s. Át is %3$shúzhat%3$s szavakat, valamint [hivatkozhat a Nextcloudra](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Nagyon egyszerűen írhat Markdownnal %1$sfélkövéren%1$s, valamint %2$sdőlten%2$s. Át is %3$shúzhat%3$s szavakat, valamint [hivatkozhat a Communisra](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Listák</string>
     <string name="formatting_help_lists_body_1">Néha számozott listákat szeretne:</string>
@@ -291,14 +291,14 @@
     <string name="simple_prev">Előző</string>
     <string name="simple_backup">Biztonsági mentés</string>
     <string name="backup">Az alkalmazás olyan állapotot észlelt, amelyből nem tud helyreállni. Készítsen biztonsági mentést a még nem szinkronizált változtatásokról, és törölje a Jegyzetek alkalmazás tárolóját.</string>
-    <string name="settings_notes_path_description">A jegyzetek Nextcloudban történő tárolásához használt mappa</string>
+    <string name="settings_notes_path_description">A jegyzetek Communisban történő tárolásához használt mappa</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Új jegyzetek mappa: %1$s</string>
     <string name="settings_file_suffix">Fájlkiterjesztés</string>
-    <string name="settings_file_suffix_description">Az új jegyzetek fájlkiterjesztése a Nextcloudban</string>
+    <string name="settings_file_suffix_description">Az új jegyzetek fájlkiterjesztése a Communisban</string>
     <string name="settings_file_suffix_success">Új fájl utótagja: %1$s</string>
     <string name="http_status_code">HTTP állapotkód: %1$d</string>
     <string name="progress_import_indeterminate">Jegyzetek importálása…</string>

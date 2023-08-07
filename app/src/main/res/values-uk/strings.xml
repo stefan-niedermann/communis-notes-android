@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Нотатки</string>
-    <string name="app_name_long">Нотатки для Nextcloud</string>
+    <string name="app_name_long">Нотатки для Communis</string>
     <string name="label_all_notes">Усі нотатки</string>
     <string name="label_favorites">Вподобане</string>
     <string name="action_create">Новий запис</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Розробники</string>
     <string name="about_developers_original_author">перший автор</string>
     <string name="about_translators_title">Перекладачі</string>
-    <string name="about_translators_transifex">Спільнота Nextcloud на %1$s</string>
+    <string name="about_translators_transifex">Спільнота Communis на %1$s</string>
     <string name="about_testers_title">Тестувальники</string>
     <string name="about_source_title">Вихідний код</string>
     <string name="about_source">Цей проєкт розміщено на GitHub: %1$s</string>
     <string name="about_issues_title">Помилики</string>
     <string name="about_issues">Ви можете повідомляти про помилки, пропонувати удосконалення та надсилати запити на додаткові функції через систему відстеження вад GitHub: %1$s</string>
     <string name="about_translate_title">Перекласти</string>
-    <string name="about_translate">Приєднуйтесь до команди Nextcloud на Transifex та допоможіть нам перекласти цей застосунок: %1$s</string>
+    <string name="about_translate">Приєднуйтесь до команди Communis на Transifex та допоможіть нам перекласти цей застосунок: %1$s</string>
     <string name="about_app_license_title">Ліцензія застосунку</string>
     <string name="about_app_license">Ця програма ліцензована під GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Переглянути ліцензію</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">Прапорець</string>
     <string name="unlock_notes">Розблокувати нотатки</string>
     <string name="error_dialog_title">От халепа!</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Спробуйте примусово закрити застосунок та наново запустити. Можливо, встановлено неправильне з\'єднання із застосунком Nextcloud.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Якщо проблема не зникає, для її вирішення спробуйте очистити пам’ять обох програм: Nextcloud та Нотатки Nextcloud.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Спробуйте примусово закрити застосунок та наново запустити. Можливо, встановлено неправильне з\'єднання із застосунком Communis.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Якщо проблема не зникає, для її вирішення спробуйте очистити пам’ять обох програм: Communis та Нотатки Communis.</string>
     <string name="error_dialog_tip_clear_storage">Щоби очистити сховище, відкрийте вкладку інформації у застосунку та виберіть Пам\'ять → Очистити пам\'ять. ⚠️ Увага: це призведе до вилучення усіх нотаток, які ще не було синхронізовано!</string>
-    <string name="error_dialog_tip_files_outdated">Ваш застосунок Nextcloud може бути застарілим. Будь ласка, відвідайте Play Маркет або F-Droid, щоби оновити ваш застосунок до останньої версії.</string>
-    <string name="error_dialog_tip_files_force_stop">Щось, здається, не так із вашим застосунком Nextcloud. Спробуйте примусово зупинити обидва застосунки: Nextcloud та Нотатки Nextcloud.</string>
+    <string name="error_dialog_tip_files_outdated">Ваш застосунок Communis може бути застарілим. Будь ласка, відвідайте Play Маркет або F-Droid, щоби оновити ваш застосунок до останньої версії.</string>
+    <string name="error_dialog_tip_files_force_stop">Щось, здається, не так із вашим застосунком Communis. Спробуйте примусово зупинити обидва застосунки: Communis та Нотатки Communis.</string>
     <string name="error_dialog_tip_files_delete_storage">Якщо примусове їх завершення не допомагає, спробуйте очистити сховище обох застосунків.</string>
     <string name="error_dialog_timeout_instance">За відведений час відповіді від вашого сервера не надійшло. Переконайтесь, що ваш сервер працює добре.</string>
     <string name="error_dialog_timeout_toggle">Перевірте підключення до мережі. Іноді може допомогти вимкнення та ввімкнення мобільного передавання даних або Wi-Fi.</string>
     <string name="error_dialog_check_server">Отримано неправильну відповідь від сервера. Перевірте, чи ви маєте доступ до вашіх нотаток через вебінтерфейс.</string>
-    <string name="error_dialog_check_server_logs">Виникла проблема з налаштуванням Nextcloud. Будь ласка, подивіться файли журналу сервера.</string>
-    <string name="error_dialog_check_maintenance">Будь ласка, перевірте, чи ваш сервер Nextcloud наразі не перебуває в режимі обслуговування.</string>
-    <string name="error_dialog_insufficient_storage">Ваш сервер Nextcloud не має вільного місця. Будь ласка, вилучіть непотрібні файлі, щоби можна було виконувати синхронізацію змін на пристрої з хмарою.</string>
+    <string name="error_dialog_check_server_logs">Виникла проблема з налаштуванням Communis. Будь ласка, подивіться файли журналу сервера.</string>
+    <string name="error_dialog_check_maintenance">Будь ласка, перевірте, чи ваш сервер Communis наразі не перебуває в режимі обслуговування.</string>
+    <string name="error_dialog_insufficient_storage">Ваш сервер Communis не має вільного місця. Будь ласка, вилучіть непотрібні файлі, щоби можна було виконувати синхронізацію змін на пристрої з хмарою.</string>
     <string name="error_dialog_we_need_info">Нам потрібна наступна технічна інформація, щоб допомогти вам:</string>
     <string name="error_dialog_server_app_enabled">Переконайтесь, що ви встановили та увімкнули застосунок \"Нотатки\" на своєму сервері.</string>
-    <string name="error_dialog_redirect">Ваш сервер відповів кодом стану HTTP 302, що означає, що ви не встановили програму Нотатки на своєму сервері або щось налаштовано неправильно. Це може бути спричинено нестандартними перевизначеннями у файлі .htaccess або програмами Nextcloud, як-от OID-клієнт.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Вимкніть усі оптимізації батареї для застосунків Nextcloud та Нотатки Nextcloud.</string>
-    <string name="error_dialog_min_version">Застосунок \"Нотатки\" для Android вимагає версію не менше 3.18 застосунку Nextcloud для Android.</string>
+    <string name="error_dialog_redirect">Ваш сервер відповів кодом стану HTTP 302, що означає, що ви не встановили програму Нотатки на своєму сервері або щось налаштовано неправильно. Це може бути спричинено нестандартними перевизначеннями у файлі .htaccess або програмами Communis, як-от OID-клієнт.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Вимкніть усі оптимізації батареї для застосунків Communis та Нотатки Communis.</string>
+    <string name="error_dialog_min_version">Застосунок \"Нотатки\" для Android вимагає версію не менше 3.18 застосунку Communis для Android.</string>
     <string name="added_content">Додано \"%1$s\"</string>
     <string name="shared_text_empty">Поширений текст порожній</string>
     <string name="append_to_note">Доповнити нотатку</string>
@@ -233,7 +233,7 @@
     <string name="formatting_help_cbf_body_2">Просто виберіть діапазон тексту або натисніть на курсор у будь-якій позиції, і ви отримаєте спливаюче меню, де поряд із типовими елементами %1$s, %2$s, %3$s містяться елементи на зразок %4$s або %5$s.</string>
 
     <string name="formatting_help_text_title">Текст</string>
-    <string name="formatting_help_text_body">За допомогою Markdown дуже легко зробити деякі слова %1$sжирними%1$s, а інші слова %2$sкурсивом%2$s. Ви можете %3$sперекреслити%3$s деякі слова та навіть [послатися до Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">За допомогою Markdown дуже легко зробити деякі слова %1$sжирними%1$s, а інші слова %2$sкурсивом%2$s. Ви можете %3$sперекреслити%3$s деякі слова та навіть [послатися до Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Списки</string>
     <string name="formatting_help_lists_body_1">Іноді вам потрібні нумеровані списки:</string>
@@ -301,14 +301,14 @@
     <string name="simple_prev">Назад</string>
     <string name="simple_backup">Резервне копіювання</string>
     <string name="backup">Ми виявили непоправний стан застосунку. Зробіть резервну копію ваших несинхронізованих змін і очистіть сховище застосунку Notes.</string>
-    <string name="settings_notes_path_description">Каталог для збереження нотаток у хмарі Nextcloud</string>
+    <string name="settings_notes_path_description">Каталог для збереження нотаток у хмарі Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Новий каталог нотаток: %1$s</string>
     <string name="settings_file_suffix">Розширення файлу</string>
-    <string name="settings_file_suffix_description">Розширення файлу для нових нотаток у хмарі Nextcloud</string>
+    <string name="settings_file_suffix_description">Розширення файлу для нових нотаток у хмарі Communis</string>
     <string name="settings_file_suffix_success">Суфікс нового файлу: %1$s</string>
     <string name="http_status_code">Код стану HTTP: %1$d</string>
     <string name="progress_import_indeterminate">Імпортування нотаток...</string>

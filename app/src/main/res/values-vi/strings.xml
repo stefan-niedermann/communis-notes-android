@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Ghi chú</string>
-    <string name="app_name_long">Nextcloud Ghi chú</string>
+    <string name="app_name_long">Communis Ghi chú</string>
     <string name="label_all_notes">Tất cả ghi chú</string>
     <string name="label_favorites">Ưa thích</string>
     <string name="action_create">Ghi chú mới</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">Người duy trì</string>
     <string name="about_developers_title">Nhà phát triển</string>
     <string name="about_translators_title">Người phiên dịch</string>
-    <string name="about_translators_transifex">Cộng đồng Nextcloud trên %1$s</string>
+    <string name="about_translators_transifex">Cộng đồng Communis trên %1$s</string>
     <string name="about_testers_title">Người thử nghiệm</string>
     <string name="about_source_title">Mã nguồn</string>
     <string name="about_source">Dự án này được lưu trữ trên GitHub: %1$s</string>
     <string name="about_issues_title">Vấn đề</string>
     <string name="about_issues">Bạn có thể báo cáo lỗi, đề nghị cải thiện và yêu cầu tính năng tại trình theo dõi vấn đề của GitHub: %1$s</string>
     <string name="about_translate_title">Dịch</string>
-    <string name="about_translate">Tham gia nhóm Nextcloud trên Transifex và giúp chúng tôi dịch ứng dụng này: %1$s</string>
+    <string name="about_translate">Tham gia nhóm Communis trên Transifex và giúp chúng tôi dịch ứng dụng này: %1$s</string>
     <string name="about_app_license_title">Giấy phép ứng dụng</string>
     <string name="about_app_license">Ứng dụng này được cấp phép dưới GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Xem giấy phép</string>
@@ -132,22 +132,22 @@
     <string name="simple_checkbox">Hộp chọn</string>
     <string name="unlock_notes">Mở khoá ghi chú</string>
     <string name="error_dialog_title">Ôi không - Làm gì bây giờ? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Vui lòng cố gắng buộc dừng và khởi động lại ứng dụng. Có thể đã có một kết nối không chính xác đến ứng dụng Nextcloud.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Nếu vấn đề vẫn tiếp diễn, hãy cố gắng xoá bộ nhớ của cả hai ứng dụng: Nextcloud và Nextcloud Ghi chú để giải quyết vấn đề này.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Vui lòng cố gắng buộc dừng và khởi động lại ứng dụng. Có thể đã có một kết nối không chính xác đến ứng dụng Communis.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Nếu vấn đề vẫn tiếp diễn, hãy cố gắng xoá bộ nhớ của cả hai ứng dụng: Communis và Communis Ghi chú để giải quyết vấn đề này.</string>
     <string name="error_dialog_tip_clear_storage">Bạn có thể xoá bộ nhớ bằng cách mở thông tin ứng dụng và chọn Bộ nhớ → Xoá bộ nhớ. ⚠️ Cảnh báo: Việc này sẽ xoá các ghi chú chưa được đồng bộ hoá!</string>
-    <string name="error_dialog_tip_files_outdated">Ứng dụng Nextcloud của bạn có vẻ đã lỗi thời. Vui lòng đi đến CH Play hoặc F-Droid để lấy phiên bản mới nhất.</string>
-    <string name="error_dialog_tip_files_force_stop">Có gì đó có vẻ sai với ứng dụng Nextcloud của bạn. Vui lòng cố gắng buộc dừng cả hai, ứng dụng Nextcloud và ứng dụng Nextcloud Ghi chú.</string>
+    <string name="error_dialog_tip_files_outdated">Ứng dụng Communis của bạn có vẻ đã lỗi thời. Vui lòng đi đến CH Play hoặc F-Droid để lấy phiên bản mới nhất.</string>
+    <string name="error_dialog_tip_files_force_stop">Có gì đó có vẻ sai với ứng dụng Communis của bạn. Vui lòng cố gắng buộc dừng cả hai, ứng dụng Communis và ứng dụng Communis Ghi chú.</string>
     <string name="error_dialog_tip_files_delete_storage">Nếu việc buộc dừng chúng không giúp gì được, bạn có thể cố gắng xoá bộ nhớ của cả hai ứng dụng.</string>
     <string name="error_dialog_timeout_instance">Không có phản hồi từ máy chủ của bạn trong thời gian được đưa ra. Vui lòng chắc chắn rằng bản sao của bạn đang chạy tốt.</string>
     <string name="error_dialog_timeout_toggle">Hãy kiểm tra kết nối mạng của bạn. Đôi khi việc tắt và bật lại dữ liệu di động hoặc Wi-Fi có thể giúp.</string>
     <string name="error_dialog_check_server">Phản hồi của máy chủ của bạn không chính xác. Vui lòng kiểm tra xem bạn có thể truy cập các ghi chú của bạn qua giao diện web không.</string>
-    <string name="error_dialog_check_server_logs">Có vấn đề với thiết lập Nextcloud của bạn. Vui lòng xem các tệp nhật ký của máy chủ.</string>
-    <string name="error_dialog_check_maintenance">Vui lòng kiểm tra xem bản sao Nextcloud của bạn hiện tại có đang không ở trong chế độ bảo trì không.</string>
-    <string name="error_dialog_insufficient_storage">Bản sao Nextcloud của bạn không còn bộ nhớ trống. Vui lòng xoá một số tệp để đồng bộ các thay đổi cục bộ của bạn vào đám mây của bạn.</string>
+    <string name="error_dialog_check_server_logs">Có vấn đề với thiết lập Communis của bạn. Vui lòng xem các tệp nhật ký của máy chủ.</string>
+    <string name="error_dialog_check_maintenance">Vui lòng kiểm tra xem bản sao Communis của bạn hiện tại có đang không ở trong chế độ bảo trì không.</string>
+    <string name="error_dialog_insufficient_storage">Bản sao Communis của bạn không còn bộ nhớ trống. Vui lòng xoá một số tệp để đồng bộ các thay đổi cục bộ của bạn vào đám mây của bạn.</string>
     <string name="error_dialog_we_need_info">Chúng tôi cần thông tin kỹ thuật sau đây để giúp bạn:</string>
     <string name="error_dialog_server_app_enabled">Vui lòng chắc chắn rằng bạn đã cài đặt và bật ứng dụng \"Ghi chú\" trên máy chủ của bạn.</string>
-    <string name="error_dialog_redirect">Máy chủ của bạn đã phản hồi bằng mã trạng thái HTTP 302, nó có nghĩa là bạn chưa cài đặt ứng dụng Ghi chú trên máy chủ của bạn hoặc có gì đó bị thiết lập sai. Điều này có thể bị gây ra bởi những sự ghi đè tuỳ chỉnh trong tệp .htaccess hoặc bởi các ứng dụng Nextcloud như OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Vui lòng tắt tất cả tối ưu hoá pin cho Nextcloud và ứng dụng Ghi chú.</string>
+    <string name="error_dialog_redirect">Máy chủ của bạn đã phản hồi bằng mã trạng thái HTTP 302, nó có nghĩa là bạn chưa cài đặt ứng dụng Ghi chú trên máy chủ của bạn hoặc có gì đó bị thiết lập sai. Điều này có thể bị gây ra bởi những sự ghi đè tuỳ chỉnh trong tệp .htaccess hoặc bởi các ứng dụng Communis như OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Vui lòng tắt tất cả tối ưu hoá pin cho Communis và ứng dụng Ghi chú.</string>
     <string name="added_content">Đã thêm \"%1$s\"</string>
     <string name="shared_text_empty">Văn bản được chia sẻ bị trống</string>
     <string name="append_to_note">Thêm vào ghi chú</string>
@@ -198,7 +198,7 @@
     <string name="formatting_help_cbf_body_2">Chỉ cần chọn một phạm vi văn bản hoặc chạmvào con trỏ tại bất kỳ vị trí nào và bạn sẽ thấy một menu popup chứa các mục %4$s hoặc %5$s bên cạnh các mục mặc định %1$s, %2$s, %3$s.</string>
 
     <string name="formatting_help_text_title">Văn bản</string>
-    <string name="formatting_help_text_body">Việc làm cho một số từ trở nên %1$sđậm%1$s và các từ khác %2$snghiêng%2$s bằng Markdown là rất dễ. Bạn có thể %3$sgạch bỏ%3$s một số từ và thậm chí là [liên kết đến Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Việc làm cho một số từ trở nên %1$sđậm%1$s và các từ khác %2$snghiêng%2$s bằng Markdown là rất dễ. Bạn có thể %3$sgạch bỏ%3$s một số từ và thậm chí là [liên kết đến Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Danh sách</string>
     <string name="formatting_help_lists_body_1">Đôi khi bạn muốn các danh sách đánh số:</string>
@@ -258,14 +258,14 @@
     <string name="simple_prev">Trước</string>
     <string name="simple_backup">Sao lưu</string>
     <string name="backup">Chúng tôi đã phát hiện trạng thái không thể phục hồi của ứng dụng. Vui lòng sao lưu các thay đổi chưa đồng bộ và xóa bộ nhớ của ứng dụng Ghi chú.</string>
-    <string name="settings_notes_path_description">Thư mục để lưu trữ các bản ghi chú trên Nextcloud của bạn</string>
+    <string name="settings_notes_path_description">Thư mục để lưu trữ các bản ghi chú trên Communis của bạn</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Thư mục bản ghi chú mới: %1$s</string>
     <string name="settings_file_suffix">Phần mở rộng tệp</string>
-    <string name="settings_file_suffix_description">Phần mở rộng tệp cho các bản ghi chú mới trên Nextcloud của bạn</string>
+    <string name="settings_file_suffix_description">Phần mở rộng tệp cho các bản ghi chú mới trên Communis của bạn</string>
     <string name="settings_file_suffix_success">Hậu tố tệp mới: %1$s</string>
     <string name="http_status_code">Mã trạng thái HTTP: %1$d</string>
     <string name="progress_import_indeterminate">Đang nhập các ghi chú...</string>

@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notas</string>
-    <string name="app_name_long">Notas de Nextcloud</string>
+    <string name="app_name_long">Notas de Communis</string>
     <string name="label_all_notes">Totu is notas</string>
     <string name="label_favorites">Preferidos</string>
     <string name="action_create">Notas noas</string>
@@ -61,14 +61,14 @@
     <string name="about_maintainer_title">Responsàbile</string>
     <string name="about_developers_title">Isvilupadores</string>
     <string name="about_translators_title">Tradutores</string>
-    <string name="about_translators_transifex">Comunidade Nextcloud in su %1$s</string>
+    <string name="about_translators_transifex">Comunidade Communis in su %1$s</string>
     <string name="about_testers_title">Collaudadores</string>
     <string name="about_source_title">Còdighe fonte</string>
     <string name="about_source">Custu progetu nch\'est allogadu in GitHub: %1$s</string>
     <string name="about_issues_title">Problemas</string>
     <string name="about_issues">Podes sinnalare unu problema, fàghere propostas de megioramentu e rechestas de funtzionalidades a su rilevadore de problemas de GitHub: %1$s</string>
     <string name="about_translate_title">Borta</string>
-    <string name="about_translate">Iscrie·ti a s\'iscuadra de Nextcloud in Transifex e agiuda·nos a bortare custa aplicatzione: %1$s</string>
+    <string name="about_translate">Iscrie·ti a s\'iscuadra de Communis in Transifex e agiuda·nos a bortare custa aplicatzione: %1$s</string>
     <string name="about_app_license_title">Lissèntzia</string>
     <string name="about_app_license">Custa aplicatzione est suta lissèntzia GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Càstia lissèntzia</string>
@@ -124,22 +124,22 @@
     <string name="simple_checkbox">Casella de seletzione</string>
     <string name="unlock_notes">Isbloca notas</string>
     <string name="error_dialog_title">Oh no - Immoe ite ddoe at? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Proa a serrare a fortza s\'aplicatzione e torrala a aviare. Fortzis ddoe at àpidu unu problema de connessione a s\'aplicatzione de Nextcloud. </string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Si sighit su problema, proa a cantzellare s\'archiviatzione de ambas is aplicatziones Nextcloud e Nextcloud Notes pro isorvere su problema.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Proa a serrare a fortza s\'aplicatzione e torrala a aviare. Fortzis ddoe at àpidu unu problema de connessione a s\'aplicatzione de Communis. </string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Si sighit su problema, proa a cantzellare s\'archiviatzione de ambas is aplicatziones Communis e Communis Notes pro isorvere su problema.</string>
     <string name="error_dialog_tip_clear_storage">Podes limpiare s\'archiviatzione aberende is informatziones de s\'aplicatzione e seberende Archiviatzione → Lìmpia archiviatzione. ⚠️ Atentzione: Custu at a cantzellare is notas no ancora sincronizadas!</string>
-    <string name="error_dialog_tip_files_outdated">S\'aplicatzione tua de Nextcloud paret foras d\'usu. Pro praghere, bìsita su Play Store o F-Droid pro otènnere s\'ùrtima versione.</string>
-    <string name="error_dialog_tip_files_force_stop">Paret chi b\'at àpidu problemas cun s\'aplicatzione de Nextcloud. Pro praghere proa a ddas firmare ambas, s\'aplicatzione Nextcloud e s\'aplicatzione Nexcloud Notes. </string>
+    <string name="error_dialog_tip_files_outdated">S\'aplicatzione tua de Communis paret foras d\'usu. Pro praghere, bìsita su Play Store o F-Droid pro otènnere s\'ùrtima versione.</string>
+    <string name="error_dialog_tip_files_force_stop">Paret chi b\'at àpidu problemas cun s\'aplicatzione de Communis. Pro praghere proa a ddas firmare ambas, s\'aplicatzione Communis e s\'aplicatzione Nexcloud Notes. </string>
     <string name="error_dialog_tip_files_delete_storage">Si a ddas firmare a fortza no agiudat, podes proare a limpiare s\'archiviatzione de ambas is aplicatziones.</string>
     <string name="error_dialog_timeout_instance">Non ddoe at àpidu peruna risposta dae su serbidore in su tempus istabilidu. Segura·ti chi sa rechesta tua siat esecutada in manera curreta.</string>
     <string name="error_dialog_timeout_toggle">Controlla sa connesione tua a sa rete. A bortas podet agiudare a disativare is datos mòbiles o su Wi-Fi e a ddos torrare a ativare.</string>
     <string name="error_dialog_check_server">Sa risposta de su serbidore tuo non fiat curreta. Controlla su podet atzèdere a is notas tuas tràmite interfache web.</string>
-    <string name="error_dialog_check_server_logs">Ddoe at unu problema cun s\'installatzione tua de Nextcloud. Pro praghere càstia in is archìvios de registru de su serbidore.</string>
-    <string name="error_dialog_check_maintenance">Controlla chi s\'istantza tua de Nextcloud non siat in fase de mantenimentu.</string>
-    <string name="error_dialog_insufficient_storage">In su Nextcloud tuo non ddoe at prus logu lìberu. Pro praghere cantzella unos cantos archìvios pro sincronizare is modìficas locales tuas con sa nue virtuale.</string>
+    <string name="error_dialog_check_server_logs">Ddoe at unu problema cun s\'installatzione tua de Communis. Pro praghere càstia in is archìvios de registru de su serbidore.</string>
+    <string name="error_dialog_check_maintenance">Controlla chi s\'istantza tua de Communis non siat in fase de mantenimentu.</string>
+    <string name="error_dialog_insufficient_storage">In su Communis tuo non ddoe at prus logu lìberu. Pro praghere cantzella unos cantos archìvios pro sincronizare is modìficas locales tuas con sa nue virtuale.</string>
     <string name="error_dialog_we_need_info">Nos bisòngiant is sighentes informatziones tècnicas pro t\'agiuare:</string>
     <string name="error_dialog_server_app_enabled">Segurati de àere installadu e abilitadu s\'aplicatzione \"Notes\" in su serbidore tuo.</string>
-    <string name="error_dialog_redirect">Su serbidore tuo at rispostu cun unu còdighe de istadu HTTP 302, chi ìmplicat chi no as installadu s\'aplicatzione Note in su serbidore tuo o calicuna cosa no est cunfigurada in manera curreta. Custu podet èssere dèpidu a cunfiguratziones personalizadas in su documentu .htaccess o a aplicatziones de Nextcloud comente OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Disabilita totu is otimizatziones de sa bateria pro is aplicatziones Nextcloud e Note.</string>
+    <string name="error_dialog_redirect">Su serbidore tuo at rispostu cun unu còdighe de istadu HTTP 302, chi ìmplicat chi no as installadu s\'aplicatzione Note in su serbidore tuo o calicuna cosa no est cunfigurada in manera curreta. Custu podet èssere dèpidu a cunfiguratziones personalizadas in su documentu .htaccess o a aplicatziones de Communis comente OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Disabilita totu is otimizatziones de sa bateria pro is aplicatziones Communis e Note.</string>
     <string name="added_content">Agiuntu \"%1$s\"</string>
     <string name="shared_text_empty">Su testu cumpartzidu fiat bòidu</string>
     <string name="append_to_note">Agiunghe a sa nota</string>
@@ -194,7 +194,7 @@
     <string name="formatting_help_cbf_body_2">Ti bastat de seletzionare un\'intervallu de testu o tocare su cursore in cale si siat positzione e at a apàrrere unu menu cun accanta is boghes predefinidas %1$s, %2$s, %3$s elementos comente%4$s o %5$s.</string>
 
     <string name="formatting_help_text_title">Testu</string>
-    <string name="formatting_help_text_body">Est fàtzile meda a pònnere faeddos in %1$sgrassetu%1$s e àteros faeddos in %2$scursivu%2$s cun Markdown. Como podes %3$sbarrare%3$s calicunos faeddos e puru [link to Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Est fàtzile meda a pònnere faeddos in %1$sgrassetu%1$s e àteros faeddos in %2$scursivu%2$s cun Markdown. Como podes %3$sbarrare%3$s calicunos faeddos e puru [link to Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Listas</string>
     <string name="formatting_help_lists_body_1">A bortas ti serbint listas numeradas:</string>
@@ -258,14 +258,14 @@
     <string name="simple_prev">Pretzedente</string>
     <string name="simple_backup">Còpia de seguresa</string>
     <string name="backup">Amus rilevadu un\'istadu non recuperàbile de s\'aplicatzione. Faghe una còpia de is modìficas non sincronizadas e lìmpia s\'archiviatzione de s\'aplicatzione Notes.</string>
-    <string name="settings_notes_path_description">Cartella pro archiviare is notas tuas in Nextcloud</string>
+    <string name="settings_notes_path_description">Cartella pro archiviare is notas tuas in Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Cartella de notas noa: %1$s</string>
     <string name="settings_file_suffix">Estensione de archìviu</string>
-    <string name="settings_file_suffix_description">Estensione de archìviu pro notas noas in su Nextcloud tuo</string>
+    <string name="settings_file_suffix_description">Estensione de archìviu pro notas noas in su Communis tuo</string>
     <string name="settings_file_suffix_success">Sufissu de archìviu nou: %1$s</string>
     <string name="http_status_code">Còdighe de istadu HTTP: %1$d</string>
     <string name="action_back">In segus</string>

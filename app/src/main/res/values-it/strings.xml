@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Note</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">Communis Notes</string>
     <string name="label_all_notes">Tutte le note</string>
     <string name="label_favorites">Preferite</string>
     <string name="action_create">Nuova nota</string>
@@ -61,14 +61,14 @@
     <string name="about_maintainer_title">Responsabile</string>
     <string name="about_developers_title">Sviluppatori</string>
     <string name="about_translators_title">Traduttori</string>
-    <string name="about_translators_transifex">Comunità di Nextcloud attiva %1$s</string>
+    <string name="about_translators_transifex">Comunità di Communis attiva %1$s</string>
     <string name="about_testers_title">Tester</string>
     <string name="about_source_title">Codice sorgente</string>
     <string name="about_source">Questo progetto è ospitato su GitHub: %1$s</string>
     <string name="about_issues_title">Problemi</string>
     <string name="about_issues">Puoi segnalare bug, proporre miglioramenti e richiedere funzionalità tramite il sistema di tracciamento dei problemi di GitHub: %1$s</string>
     <string name="about_translate_title">Traduci</string>
-    <string name="about_translate">Unisciti al team di Nextcloud su Transifex e aiutaci a tradurre questa applicazione: %1$s</string>
+    <string name="about_translate">Unisciti al team di Communis su Transifex e aiutaci a tradurre questa applicazione: %1$s</string>
     <string name="about_app_license_title">Licenza applicazione</string>
     <string name="about_app_license">Questa applicazione è rilasciata nei termini della licenza GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Visualizza licenza</string>
@@ -146,23 +146,23 @@
     <string name="simple_checkbox">Casella di selezione</string>
     <string name="unlock_notes">Sblocca note</string>
     <string name="error_dialog_title">Oh no - Cosa succede adesso? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Prova a forzare la chiusura dell\'applicazione e riavviarla nuovamente. Potrebbe essersi verificato un problema di connessione all\'applicazione Nextcloud. </string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Se il problema persiste, prova a cancellare l\'archiviazione di entrambe le applicazioni Nextcloud e Nextcloud Notes per risolver il problema.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Prova a forzare la chiusura dell\'applicazione e riavviarla nuovamente. Potrebbe essersi verificato un problema di connessione all\'applicazione Communis. </string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Se il problema persiste, prova a cancellare l\'archiviazione di entrambe le applicazioni Communis e Communis Notes per risolver il problema.</string>
     <string name="error_dialog_tip_clear_storage">Puoi a cancellare l\'archiviazione aprendo le informazioni dell\'applicazione e selezionando Archiviazione → Cancella archiviazione. ⚠️ Avviso: questo eliminerà le note non ancora sincronizzate!</string>
-    <string name="error_dialog_tip_files_outdated">La tua applicazioni di Nextcloud sembra essere datata. Visita il Play Store o F-Droid per ottenere l\'ultima versione.</string>
-    <string name="error_dialog_tip_files_force_stop">Sembra che ci sia un problema con la tua applicazione di Nextcloud. Prova a fermare entrambe le applicazioni Nextcloud e Nextcloud Notes.</string>
+    <string name="error_dialog_tip_files_outdated">La tua applicazioni di Communis sembra essere datata. Visita il Play Store o F-Droid per ottenere l\'ultima versione.</string>
+    <string name="error_dialog_tip_files_force_stop">Sembra che ci sia un problema con la tua applicazione di Communis. Prova a fermare entrambe le applicazioni Communis e Communis Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Se fermarle non aiuta, puoi provare a cancellare l\'archiviazione di entrambe le applicazioni.</string>
     <string name="error_dialog_timeout_instance">Non è stata ricevuta una risposta dal server nel tempo stabilito. Assicurati che la tua istanza sia correttamente in esecuzione.</string>
     <string name="error_dialog_timeout_toggle">Controlla la tua connessione di rete. A volte disattivare e riattivare i dati mobili o Wi-Fi può aiutare.</string>
     <string name="error_dialog_check_server">La risposta del tuo server non era corretta. Controlla se puoi accedere alle tue note tramite l\'interfaccia web.</string>
-    <string name="error_dialog_check_server_logs">Si è verificato un problema con la tua installazione di Nextcloud. Controlla nei file di registro del server.</string>
-    <string name="error_dialog_check_maintenance">Controlla che la tua istanza di Nextcloud non sia attualmente in manutenzione.</string>
-    <string name="error_dialog_insufficient_storage">La tua istanza di Nextcloud non ha più spazio libero. Elimina alcuni file per sincronizzare le modifiche locali con il tuo cloud.</string>
+    <string name="error_dialog_check_server_logs">Si è verificato un problema con la tua installazione di Communis. Controlla nei file di registro del server.</string>
+    <string name="error_dialog_check_maintenance">Controlla che la tua istanza di Communis non sia attualmente in manutenzione.</string>
+    <string name="error_dialog_insufficient_storage">La tua istanza di Communis non ha più spazio libero. Elimina alcuni file per sincronizzare le modifiche locali con il tuo cloud.</string>
     <string name="error_dialog_we_need_info">Ci servono le seguenti informazioni tecniche per aiutarti:</string>
     <string name="error_dialog_server_app_enabled">Assicurati di aver installato e abilitato l\'applicazione \"Note\" sul tuo server.</string>
-    <string name="error_dialog_redirect">Il tuo server ha risposto con un codice di stato HTTP 302, che implica che non hai installato l\'applicazione Note sul tuo server o qualcosa non è configurato correttamente. Questo può essere causato da configurazioni personalizzate nel file .htaccess o da applicazioni di Nextcloud come OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Disabilita tutte le ottimizzazioni della batteria per le applicazioni Nextcloud e Note.</string>
-    <string name="error_dialog_min_version">L\'app Note di Android richiede che l\'app Nextcloud di Android sia almeno alla versione 3.18.</string>
+    <string name="error_dialog_redirect">Il tuo server ha risposto con un codice di stato HTTP 302, che implica che non hai installato l\'applicazione Note sul tuo server o qualcosa non è configurato correttamente. Questo può essere causato da configurazioni personalizzate nel file .htaccess o da applicazioni di Communis come OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Disabilita tutte le ottimizzazioni della batteria per le applicazioni Communis e Note.</string>
+    <string name="error_dialog_min_version">L\'app Note di Android richiede che l\'app Communis di Android sia almeno alla versione 3.18.</string>
     <string name="added_content">Aggiunto \"%1$s\"</string>
     <string name="shared_text_empty">Il testo condiviso era vuoto</string>
     <string name="append_to_note">Aggiungi a nota</string>
@@ -221,7 +221,7 @@
     <string name="formatting_help_cbf_body_2">Ti basta selezionare un intervallo di testo o toccare il cursore in qualsiasi posizione e apparirà un menu contenente accanto alle voci predefinite %1$s, %2$s, %3$s elementi come %4$s o %5$s.</string>
 
     <string name="formatting_help_text_title">Testo</string>
-    <string name="formatting_help_text_body">È molto semplice rendere alcune parole in %1$sgrassetto%1$s e altre in %2$scorsivo%2$s con Markdown. Puoi %3$sbarrare%3$s alcune parole e anche [collegarle a Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">È molto semplice rendere alcune parole in %1$sgrassetto%1$s e altre in %2$scorsivo%2$s con Markdown. Puoi %3$sbarrare%3$s alcune parole e anche [collegarle a Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Elenchi</string>
     <string name="formatting_help_lists_body_1">A volte hai bisogno di elenchi numerati:</string>
@@ -288,14 +288,14 @@
     <string name="simple_prev">Precedente</string>
     <string name="simple_backup">Backup</string>
     <string name="backup">Abbiamo rilevato uno stato dell\'app non recuperabile. Fai il backup delle modifiche non sincronizzate e cancella i dati dell\'app Note. </string>
-    <string name="settings_notes_path_description">Cartella in cui salvare le note nel tuo Nextcloud</string>
+    <string name="settings_notes_path_description">Cartella in cui salvare le note nel tuo Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Nuova cartella note: %1$s</string>
     <string name="settings_file_suffix">Estensione dei file</string>
-    <string name="settings_file_suffix_description">Estensione del file per le nuove note nel tuo Nextcloud</string>
+    <string name="settings_file_suffix_description">Estensione del file per le nuove note nel tuo Communis</string>
     <string name="settings_file_suffix_success">Nuovo suffisso file: %1$s</string>
     <string name="http_status_code">Codice di stato HTTP: %1$d</string>
     <string name="progress_import_indeterminate">Importazione note in corso...</string>

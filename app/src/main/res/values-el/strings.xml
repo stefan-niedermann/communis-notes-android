@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Σημειώσεις</string>
-    <string name="app_name_long">Nextcloud Σημειώσεις</string>
+    <string name="app_name_long">Communis Σημειώσεις</string>
     <string name="label_all_notes">Όλες οι σημειώσεις</string>
     <string name="label_favorites">Αγαπημένα</string>
     <string name="action_create">Νέα σημείωση</string>
@@ -60,14 +60,14 @@
     <string name="about_maintainer_title">Συντηρητής</string>
     <string name="about_developers_title">Προγραμματιστές</string>
     <string name="about_translators_title">Μεταφραστές</string>
-    <string name="about_translators_transifex">Η κοινότητα του Nextcloud στο %1$s</string>
+    <string name="about_translators_transifex">Η κοινότητα του Communis στο %1$s</string>
     <string name="about_testers_title">Δοκιμαστές</string>
     <string name="about_source_title">Πηγαίος κώδικας</string>
     <string name="about_source">Αυτό το έργο φιλοξενείται στο GitHub:%1$s</string>
     <string name="about_issues_title">Ζητήματα</string>
     <string name="about_issues">Μπορείτε να αναφέρετε σφάλματα, προτάσεις βελτιώσεων και αιτήματα για δυνατότητες στην εφαρμογή παρακολούθησης προβλημάτων GitHub:%1$s</string>
     <string name="about_translate_title">Μετάφρασε</string>
-    <string name="about_translate">Συμμετέχετε στην ομάδα του Nextcloud στο Transifex και βοηθήστε μας να μεταφράσουμε αυτήν την εφαρμογή: %1$s</string>
+    <string name="about_translate">Συμμετέχετε στην ομάδα του Communis στο Transifex και βοηθήστε μας να μεταφράσουμε αυτήν την εφαρμογή: %1$s</string>
     <string name="about_app_license_title">Άδεια χρήσης εφαρμογής</string>
     <string name="about_app_license">Αυτή η εφαρμογή υπόκεινται στην άδεια χρήσης GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Προβολή άδειας χρήσης</string>
@@ -133,21 +133,21 @@
     <string name="unlock_notes">Ξεκλείδωμα σημειώσεων</string>
     <string name="error_dialog_title">Ωχ όχι - Τώρα τί; 🙁</string>
     <string name="error_dialog_tip_token_mismatch_retry">Δοκιμάστε τερματισμό της εφαρμογή και επανεκκίνηση. Ίσως υπάρχει λάθος σύνδεση.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Εάν το πρόβλημα παραμένει, προσπαθήστε να εκκαθαρίσετε τον χώρο αποθήκευσης και των δύο εφαρμογών: του Nextcloud και του Nextcloud Notes.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Εάν το πρόβλημα παραμένει, προσπαθήστε να εκκαθαρίσετε τον χώρο αποθήκευσης και των δύο εφαρμογών: του Communis και του Communis Notes.</string>
     <string name="error_dialog_tip_clear_storage">Μπορείτε να διαγράψετε τον αποθηκευτικό χώρο ανοίγοντας τις πληροφορίες της εφαρμογής και επιλέγοντας Αποθήκευση → Εκκαθάριση αποθηκευτικού χώρου. ⚠️ Προειδοποίηση: Αυτό θα διαγράψει τις μη συγχρονισμένες ακόμη σημειώσεις!</string>
-    <string name="error_dialog_tip_files_outdated">Η εφαρμογή Nextcloud δεν είναι ενημερωμένη. Παρακαλούμε επισκεφθείτε το Play Store ή το F-Groid για λήψη της τελευταίας έκδοσης.</string>
-    <string name="error_dialog_tip_files_force_stop">Κάτι φαίνεται να πάει στραβά με την εφαρμογή Nextcloud. Προσπαθήστε να τερματίσετε την εφαρμογή Nextcloud και την εφαρμογή Nextcloud Notes.</string>
+    <string name="error_dialog_tip_files_outdated">Η εφαρμογή Communis δεν είναι ενημερωμένη. Παρακαλούμε επισκεφθείτε το Play Store ή το F-Groid για λήψη της τελευταίας έκδοσης.</string>
+    <string name="error_dialog_tip_files_force_stop">Κάτι φαίνεται να πάει στραβά με την εφαρμογή Communis. Προσπαθήστε να τερματίσετε την εφαρμογή Communis και την εφαρμογή Communis Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Εάν ο τερματισμός δεν βοηθήσει, μπορείτε να εκκαθαρίσετε τον αποθηκευτικό χώρο και των δύο εφαρμογών.</string>
     <string name="error_dialog_timeout_instance">Δεν υπήρχε απάντηση από τον διακομιστή σας. Βεβαιωθείτε ότι η σύνδεσή σας λειτουργεί κανονικά.</string>
     <string name="error_dialog_timeout_toggle">Ελέγξτε τη σύνδεση δικτύου σας. Κάποιες φορές η εναλλαγή δεδομένων κινητής τηλεφωνίας ή Wi-Fi μπορεί να βοηθήσει.</string>
     <string name="error_dialog_check_server">Η απάντηση του διακομιστή σας δεν ήταν σωστή. Ελέγξτε αν μπορείτε να αποκτήσετε πρόσβαση στις σημειώσεις σας μέσω του περιηγητή σας.</string>
-    <string name="error_dialog_check_server_logs">Υπάρχει ένα πρόβλημα με τη ρύθμιση Nextcloud. Ελέγξτε τα αρχεία καταγραφής του διακομιστή.</string>
-    <string name="error_dialog_check_maintenance">Παρακαλούμε ελέγξτε το Nextcloud οτι δεν βρίσκεται σε λειτουργία συντήρησης.</string>
-    <string name="error_dialog_insufficient_storage">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο Nextcloud. Διαγράψτε ορισμένα αρχεία για να συγχρονίσετε τις αλλαγές σας.</string>
+    <string name="error_dialog_check_server_logs">Υπάρχει ένα πρόβλημα με τη ρύθμιση Communis. Ελέγξτε τα αρχεία καταγραφής του διακομιστή.</string>
+    <string name="error_dialog_check_maintenance">Παρακαλούμε ελέγξτε το Communis οτι δεν βρίσκεται σε λειτουργία συντήρησης.</string>
+    <string name="error_dialog_insufficient_storage">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο Communis. Διαγράψτε ορισμένα αρχεία για να συγχρονίσετε τις αλλαγές σας.</string>
     <string name="error_dialog_we_need_info">Χρειαζόμαστε τις ακόλουθες τεχνικές πληροφορίες για να σας βοηθήσουμε:</string>
     <string name="error_dialog_server_app_enabled">Παρακαλούμε βεβαιωθείτε ότι εγκαταστήσατε και ενεργοποιήσατε την εφαρμογή \"Notes\" στον διακομιστή σας.</string>
-    <string name="error_dialog_redirect">Ο διακομιστής απάντησε με κωδικό κατάστασης HTTP 302, που σημαίνει, πως δεν έχετε εγκατεστημένη την εφαρμογή Notes στον διακομιστή σας ή υπάρχει λάθος ρύθμιση. Αυτό μπορεί να προκλήθηκε από λάθος καταχώρηση στο αρχείο .htaccess-file ή σε εφαρμογές του Nextcloud όπως την OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Παρακαλούμε απενεργοποιήστε όλες τις βελτιστοποιήσεις μπαταρίας για το Nextcloud και την εφαρμογή Notes.</string>
+    <string name="error_dialog_redirect">Ο διακομιστής απάντησε με κωδικό κατάστασης HTTP 302, που σημαίνει, πως δεν έχετε εγκατεστημένη την εφαρμογή Notes στον διακομιστή σας ή υπάρχει λάθος ρύθμιση. Αυτό μπορεί να προκλήθηκε από λάθος καταχώρηση στο αρχείο .htaccess-file ή σε εφαρμογές του Communis όπως την OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Παρακαλούμε απενεργοποιήστε όλες τις βελτιστοποιήσεις μπαταρίας για το Communis και την εφαρμογή Notes.</string>
     <string name="added_content">Προστέθηκε \"%1$s\"</string>
     <string name="shared_text_empty">Το κοινόχρηστο κείμενο είναι κενό</string>
     <string name="append_to_note">Προσάρτηση στη σημείωση</string>
@@ -202,7 +202,7 @@
     <string name="formatting_help_cbf_body_2">Απλώς επιλέξτε ένα εύρος κειμένου ή πατήστε τον κέρσορα σε οποιαδήποτε θέση και θα λάβετε ένα αναδυόμενο μενού που περιέχει δίπλα στις προεπιλεγμένες καταχωρήσεις %1$s, %2$s, %3$s καταχωρίσεις όπως %4$s ή %5$s.</string>
 
     <string name="formatting_help_text_title">Κείμενο</string>
-    <string name="formatting_help_text_body">Είναι πολύ εύκολο να γράψετε μερικές λέξεις με %1$sέντονη%1$s και άλλες με %2$sπλάγια%2$s μορφή με το Markdown. Μπορείτε %3$sχτυπήσετε%3$s μερικές λέξεις μέσω του [συνδέσμου για Nextcloud] (https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Είναι πολύ εύκολο να γράψετε μερικές λέξεις με %1$sέντονη%1$s και άλλες με %2$sπλάγια%2$s μορφή με το Markdown. Μπορείτε %3$sχτυπήσετε%3$s μερικές λέξεις μέσω του [συνδέσμου για Communis] (https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Λίστες</string>
     <string name="formatting_help_lists_body_1">Μερικές φορές θέλετε αριθμημένες λίστες:</string>

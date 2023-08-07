@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notes</string>
-    <string name="app_name_long">Notes del Nextcloud</string>
+    <string name="app_name_long">Notes del Communis</string>
     <string name="label_all_notes">Totes les notes</string>
     <string name="label_favorites">Preferides</string>
     <string name="action_create">Nota nova</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">Manteniment</string>
     <string name="about_developers_title">Desenvolupament</string>
     <string name="about_translators_title">Traducció</string>
-    <string name="about_translators_transifex">Comunitat del Nextcloud a %1$s</string>
+    <string name="about_translators_transifex">Comunitat del Communis a %1$s</string>
     <string name="about_testers_title">Verificació</string>
     <string name="about_source_title">Codi font</string>
     <string name="about_source">Aquest projecte s\'allotja a GitHub: %1$s</string>
     <string name="about_issues_title">Errors</string>
     <string name="about_issues">Podeu informar d\'errors, proposar millores i demanar noves funcionalitats al gestor d\'errors de GitHub: %1$s</string>
     <string name="about_translate_title">Traducció</string>
-    <string name="about_translate">Uniu-vos a l\'equip del Nextcloud a Transifex i ajudeu-nos a traduir aquesta aplicació: %1$s</string>
+    <string name="about_translate">Uniu-vos a l\'equip del Communis a Transifex i ajudeu-nos a traduir aquesta aplicació: %1$s</string>
     <string name="about_app_license_title">Llicència de l\'aplicació</string>
     <string name="about_app_license">Aquesta aplicació està publicada sota la Llicència Pública General de GNU v3+.</string>
     <string name="about_app_license_button">Mostra la llicència</string>
@@ -149,23 +149,23 @@
     <string name="simple_checkbox">Casella de selecció</string>
     <string name="unlock_notes">Desbloca les notes</string>
     <string name="error_dialog_title">Oh, no! I ara què? </string>
-    <string name="error_dialog_tip_token_mismatch_retry">Proveu de forçar el tancament de l\'aplicació i reinicieu-la. Pot ser que hi hagi hagut una connexió incorrecta a l\'aplicació Nextcloud.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Si el problema persisteix, proveu d\'esborrar l\'emmagatzematge de totes dues aplicacions: Nextcloud i Notes del Nextcloud per tal de resoldre el problema.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Proveu de forçar el tancament de l\'aplicació i reinicieu-la. Pot ser que hi hagi hagut una connexió incorrecta a l\'aplicació Communis.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Si el problema persisteix, proveu d\'esborrar l\'emmagatzematge de totes dues aplicacions: Communis i Notes del Communis per tal de resoldre el problema.</string>
     <string name="error_dialog_tip_clear_storage">Per a esborrar l\'emmagatzematge, obriu la informació de l\'aplicació i seleccioneu Emmagatzematge → Esborra l\'emmagatzematge. ⚠️ Avís: això també esborrarà les notes que encara no s\'hagin sincronitzat!</string>
-    <string name="error_dialog_tip_files_outdated">Sembla que l\'aplicació Nextcloud està obsoleta. Visiteu la Play Store o l\'F-Droid per a obtenir la darrera versió.</string>
-    <string name="error_dialog_tip_files_force_stop">Sembla que hi ha algun problema amb la vostra aplicació Nextcloud. Intenteu forçar l\'aturada tant de l\'aplicació Nextcloud com de l\'aplicació Notes del Nextcloud.</string>
+    <string name="error_dialog_tip_files_outdated">Sembla que l\'aplicació Communis està obsoleta. Visiteu la Play Store o l\'F-Droid per a obtenir la darrera versió.</string>
+    <string name="error_dialog_tip_files_force_stop">Sembla que hi ha algun problema amb la vostra aplicació Communis. Intenteu forçar l\'aturada tant de l\'aplicació Communis com de l\'aplicació Notes del Communis.</string>
     <string name="error_dialog_tip_files_delete_storage">Si forçar-ne l\'aturada no ajuda, podeu provar d\'esborrar l\'emmagatzematge de totes dues aplicacions.</string>
     <string name="error_dialog_timeout_instance">No hi ha hagut cap resposta del servidor en el temps donat. Assegureu-vos que la vostra instància funcioni correctament.</string>
     <string name="error_dialog_timeout_toggle">Comproveu la connexió a la xarxa. De vegades, desactivar i tornar a activar les dades mòbils o la connexió sense fil pot ajudar.</string>
     <string name="error_dialog_check_server">La resposta del servidor no ha estat correcta. Comproveu que podeu accedir les vostres notes des de la interfície web.</string>
-    <string name="error_dialog_check_server_logs">Hi ha un problema amb la vostra configuració del Nextcloud. Consulteu els fitxers de registre del servidor.</string>
-    <string name="error_dialog_check_maintenance">Comproveu que la vostra instància del Nextcloud no estigui en mode de manteniment.</string>
-    <string name="error_dialog_insufficient_storage">No queda espai d\'emmagatzematge lliure a la vostra instància del Nextcloud. Suprimiu alguns fitxers per a sincronitzar els canvis locals en el núvol.</string>
+    <string name="error_dialog_check_server_logs">Hi ha un problema amb la vostra configuració del Communis. Consulteu els fitxers de registre del servidor.</string>
+    <string name="error_dialog_check_maintenance">Comproveu que la vostra instància del Communis no estigui en mode de manteniment.</string>
+    <string name="error_dialog_insufficient_storage">No queda espai d\'emmagatzematge lliure a la vostra instància del Communis. Suprimiu alguns fitxers per a sincronitzar els canvis locals en el núvol.</string>
     <string name="error_dialog_we_need_info">Necessitem la informació tècnica següent per a poder ajudar-vos:</string>
     <string name="error_dialog_server_app_enabled">Assegureu-vos que hàgiu instal·lat i activat l\'aplicació «Notes» al vostre servidor.</string>
-    <string name="error_dialog_redirect">El vostre servidor ha respost amb un codi d\'estat HTTP 302, que vol dir que no teniu instal·lada l\'aplicació Notes al vostre servidor o que hi ha alguna cosa mal configurada. Això pot tenir la causa en una anul·lació personalitzada en un fitxer .htaccess o en aplicacions del Nextcloud com Client OID.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Inhabiliteu totes les optimitzacions de la bateria per a les aplicacions Nextcloud i Notes.</string>
-    <string name="error_dialog_min_version">L\'aplicació Notes per a l\'Android requereix que la versió de l\'aplicació Nextcloud instal·lada sigui com a mínim la versió 3.18.</string>
+    <string name="error_dialog_redirect">El vostre servidor ha respost amb un codi d\'estat HTTP 302, que vol dir que no teniu instal·lada l\'aplicació Notes al vostre servidor o que hi ha alguna cosa mal configurada. Això pot tenir la causa en una anul·lació personalitzada en un fitxer .htaccess o en aplicacions del Communis com Client OID.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Inhabiliteu totes les optimitzacions de la bateria per a les aplicacions Communis i Notes.</string>
+    <string name="error_dialog_min_version">L\'aplicació Notes per a l\'Android requereix que la versió de l\'aplicació Communis instal·lada sigui com a mínim la versió 3.18.</string>
     <string name="added_content">S\'ha afegit «%1$s»</string>
     <string name="shared_text_empty">El text compartit estava buit</string>
     <string name="append_to_note">Afegeix a la nota</string>
@@ -220,7 +220,7 @@
     <string name="formatting_help_cbf_body_2">Només cal que seleccioneu un fragment de text o toqueu qualsevol posició amb el cursor i apareixerà un menú emergent que conté, juntament amb les entrades per defecte %1$s, %2$s i %3$s, entrades com %4$s o %5$s.</string>
 
     <string name="formatting_help_text_title">Text</string>
-    <string name="formatting_help_text_body">És molt fàcil posar paraules en %1$snegreta%1$s i d\'altres en %2$scursiva%2$s amb Markdown. Podeu %3$sratllar%3$s paraules i fins i tot [afegir enllaços al Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">És molt fàcil posar paraules en %1$snegreta%1$s i d\'altres en %2$scursiva%2$s amb Markdown. Podeu %3$sratllar%3$s paraules i fins i tot [afegir enllaços al Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Llistes</string>
     <string name="formatting_help_lists_body_1">De vegades voleu numerar llistes:</string>
@@ -286,14 +286,14 @@
     <string name="simple_prev">Anterior</string>
     <string name="simple_backup">Fes una còpia de seguretat</string>
     <string name="backup">S\'ha detectat un estat irrecuperable de l\'aplicació. Feu una còpia de seguretat dels canvis sense sincronitzar i esborreu l\'emmagatzematge de l\'aplicació Notes.</string>
-    <string name="settings_notes_path_description">Carpeta on s\'emmagatzemaran les notes al Nextcloud</string>
+    <string name="settings_notes_path_description">Carpeta on s\'emmagatzemaran les notes al Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Carpeta per a les notes noves: %1$s</string>
     <string name="settings_file_suffix">Extensió dels fitxers</string>
-    <string name="settings_file_suffix_description">Extensió de fitxer per a les notes noves al Nextcloud</string>
+    <string name="settings_file_suffix_description">Extensió de fitxer per a les notes noves al Communis</string>
     <string name="settings_file_suffix_success">Sufix dels fitxers nous: %1$s</string>
     <string name="http_status_code">Codi d\'estat HTTP: %1$d</string>
     <string name="progress_import_indeterminate">S\'estan important les notes…</string>

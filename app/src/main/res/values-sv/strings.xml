@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Anteckningar</string>
-    <string name="app_name_long">Nextcloud anteckningar</string>
+    <string name="app_name_long">Communis anteckningar</string>
     <string name="label_all_notes">Alla anteckningar</string>
     <string name="label_favorites">Favoriter</string>
     <string name="action_create">Ny anteckning</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Utvecklare</string>
     <string name="about_developers_original_author">Ursprungsskribent</string>
     <string name="about_translators_title">Översättare</string>
-    <string name="about_translators_transifex">Nextcloud community på %1$s</string>
+    <string name="about_translators_transifex">Communis community på %1$s</string>
     <string name="about_testers_title">Testare</string>
     <string name="about_source_title">Källkod</string>
     <string name="about_source">Detta projekt finns på GitHub: %1$s</string>
     <string name="about_issues_title">Problem</string>
     <string name="about_issues">Du kan rapportera fel, förbättringsförslag och funktionsönskningar på GitHub- problemhanteraren: %1$s</string>
     <string name="about_translate_title">Översätt</string>
-    <string name="about_translate">Gå med i Nextcloud-gruppen på Transifex och hjälp oss översätta denna app: %1$s</string>
+    <string name="about_translate">Gå med i Communis-gruppen på Transifex och hjälp oss översätta denna app: %1$s</string>
     <string name="about_app_license_title">Applicens</string>
     <string name="about_app_license">Denna app är licensierad under GNU GENERAL PUBLIC LICENSE v3+</string>
     <string name="about_app_license_button">Visa licens</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">Kryssruta</string>
     <string name="unlock_notes">Lås upp anteckningar</string>
     <string name="error_dialog_title">Å nej - Vad händer nu?🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Försök med att Tvinga appen att stänga och återstarta. En felaktig anslutning till Nextcloud-appen kan ha förekommit.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Om problemet kvarstår, prova med att rensa lagringen på både appen Nextcloud och Nextcloud Notes.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Försök med att Tvinga appen att stänga och återstarta. En felaktig anslutning till Communis-appen kan ha förekommit.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Om problemet kvarstår, prova med att rensa lagringen på både appen Communis och Communis Notes.</string>
     <string name="error_dialog_tip_clear_storage">Du kan tömma lagringsminnet genom att öppna appinfo och välja Lagring  → Tömma minne. ⚠️ Varning! Åtgärden tar bort anteckning som ännu inte synkroniserats.</string>
-    <string name="error_dialog_tip_files_outdated">Din Nextcloud-app verkar utdaterad. Besök Play Butiken eller F-Droid för att hämta senaste versionen</string>
-    <string name="error_dialog_tip_files_force_stop">Något verkar vara fel med din Nextcloud-app. Försök att tvångsavsluta både Nextcloud- och Nextcloud Notes-apparna.</string>
+    <string name="error_dialog_tip_files_outdated">Din Communis-app verkar utdaterad. Besök Play Butiken eller F-Droid för att hämta senaste versionen</string>
+    <string name="error_dialog_tip_files_force_stop">Något verkar vara fel med din Communis-app. Försök att tvångsavsluta både Communis- och Communis Notes-apparna.</string>
     <string name="error_dialog_tip_files_delete_storage">Om tvångsavslutning ej hjälper kan du försöka rensa datan på båda appar.</string>
     <string name="error_dialog_timeout_instance">Din server svarade inte inom den angivna tiden. Kontrollera att den fungerar normalt.</string>
     <string name="error_dialog_timeout_toggle">Kontrollera din nätverkanslutning. Ibland kan det hjälpa att slå av och slå på mobildata Wi-Fi.</string>
     <string name="error_dialog_check_server">Inkorrekt svar från din server. Kontrollera att du har tillgång till dina anteckningar genom din webbläsare.</string>
-    <string name="error_dialog_check_server_logs">Det finns problem med din Nextcloud-installation. Ta gärna en titt i serverns loggfiler. </string>
-    <string name="error_dialog_check_maintenance">Kontrollera att underhållsläge inte är aktivt på Nextcloud-installation.</string>
-    <string name="error_dialog_insufficient_storage">Din Nextcloud-installation har slut på diskutrymme. Ta bort några filer för att kunna synkronisera ändringar till ditt moln.</string>
+    <string name="error_dialog_check_server_logs">Det finns problem med din Communis-installation. Ta gärna en titt i serverns loggfiler. </string>
+    <string name="error_dialog_check_maintenance">Kontrollera att underhållsläge inte är aktivt på Communis-installation.</string>
+    <string name="error_dialog_insufficient_storage">Din Communis-installation har slut på diskutrymme. Ta bort några filer för att kunna synkronisera ändringar till ditt moln.</string>
     <string name="error_dialog_we_need_info">Vi behöver följande teknisk information för att kunna hjälpa dig:</string>
     <string name="error_dialog_server_app_enabled">Se till att du har installerat och aktiverat Notes-appen på din server.</string>
-    <string name="error_dialog_redirect">Din server svarade med ett HTTP 302 statusmeddelande, vilket innebär att du inte har installerat Notes-appen på din server eller att något är felkonfigurerat. Detta kan orsakas av manuella ändringar i en .htaccess-fil eller av Nextcloud-appar som \"OID Client\".</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Stäng av alla batterioptimeringar för Nextcloud och Notes-appen.</string>
-    <string name="error_dialog_min_version">Anteckningar Android-appen kräver att Nextcloud Android-appen är minst version 3.18.</string>
+    <string name="error_dialog_redirect">Din server svarade med ett HTTP 302 statusmeddelande, vilket innebär att du inte har installerat Notes-appen på din server eller att något är felkonfigurerat. Detta kan orsakas av manuella ändringar i en .htaccess-fil eller av Communis-appar som \"OID Client\".</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Stäng av alla batterioptimeringar för Communis och Notes-appen.</string>
+    <string name="error_dialog_min_version">Anteckningar Android-appen kräver att Communis Android-appen är minst version 3.18.</string>
     <string name="added_content">La till \"%1$s\"</string>
     <string name="shared_text_empty">Den delade texten var tom</string>
     <string name="append_to_note">Lägg till i anteckning</string>
@@ -225,7 +225,7 @@
     <string name="formatting_help_cbf_body_2">Markera bara ett stycke text eller tryck på din markör vid valfri position och du kommer få en popup-meny som utöver standardposterna såsom %1$s, %2$s, %3$s även innehåller poster som %4$s eller %5$s.</string>
 
     <string name="formatting_help_text_title">Text</string>
-    <string name="formatting_help_text_body">Med Markdown är det enkelt att sätta en del ord i %1$sfetstil%1$s och andra %2$skursiva%2$s. Du kan %3$söverstyka%3$s ord och även [länka till Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Med Markdown är det enkelt att sätta en del ord i %1$sfetstil%1$s och andra %2$skursiva%2$s. Du kan %3$söverstyka%3$s ord och även [länka till Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Listor</string>
     <string name="formatting_help_lists_body_1">Ibland vill du ha en numrerad lista:</string>
@@ -285,14 +285,14 @@
     <string name="simple_prev">Föregående</string>
     <string name="simple_backup">Backup</string>
     <string name="backup">Vi upptäckte ett oåterkalleligt tillstånd i appen. Säkerhetskopiera dina osynkroniserade ändringar och rensa lagringen av Antecknings-appen.</string>
-    <string name="settings_notes_path_description">Mapp för att lagra din anteckningar i ditt Nextcloud</string>
+    <string name="settings_notes_path_description">Mapp för att lagra din anteckningar i ditt Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Ny anteckningsmapp: %1$s</string>
     <string name="settings_file_suffix">Filändelse</string>
-    <string name="settings_file_suffix_description">Filändelse för nya anteckningar i ditt Nextcloud</string>
+    <string name="settings_file_suffix_description">Filändelse för nya anteckningar i ditt Communis</string>
     <string name="settings_file_suffix_success">Ny filändelse: %1$s</string>
     <string name="http_status_code">HTTP statuskod: %1$d</string>
     <string name="progress_import_indeterminate">Importerar anteckningar...</string>

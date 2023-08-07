@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notițe</string>
-    <string name="app_name_long">Notițe Nextcloud </string>
+    <string name="app_name_long">Notițe Communis </string>
     <string name="label_all_notes">Toate notițele</string>
     <string name="label_favorites">Favorite</string>
     <string name="action_create">Notă nouă</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">Maintainer</string>
     <string name="about_developers_title">Dezvoltatori</string>
     <string name="about_translators_title">Traducători</string>
-    <string name="about_translators_transifex">Comunitatea Nextcloud pe %1$s</string>
+    <string name="about_translators_transifex">Comunitatea Communis pe %1$s</string>
     <string name="about_testers_title">Testeri</string>
     <string name="about_source_title">Cod sursă</string>
     <string name="about_source">Acest proiect este găzduit pe GitHub: %1$s</string>
     <string name="about_issues_title">Probleme</string>
     <string name="about_issues">Puteți raporta erori, propuneri de îmbunătățiri și cereri de caracteristici noi în tracker-ul de probleme GitHub: %1$s</string>
     <string name="about_translate_title">Tradu</string>
-    <string name="about_translate">Alăturați-vă echipei Nextcloud de pe Transifex și ajutați-ne să traducem această aplicație:%1$s</string>
+    <string name="about_translate">Alăturați-vă echipei Communis de pe Transifex și ajutați-ne să traducem această aplicație:%1$s</string>
     <string name="about_app_license_title">Licența aplicației</string>
     <string name="about_app_license">Această aplicație este licențiată sub GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Vezi licența</string>
@@ -149,23 +149,23 @@
     <string name="simple_checkbox">Căsuța de bifat</string>
     <string name="unlock_notes">Deblochează notițe </string>
     <string name="error_dialog_title">Ooo nu - Acum ce? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Vă rugăm să închideţi forţat alicaţia şi să o reporniţi. Este posibil să existe o conexiune setată incorect către aplicaţia Nextcloud.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Dacă problema persistă, încercați să goliți memoria aplicației Nextcloud și a aplicației Nextcloud Notes, pentru a rezolva această problemă.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Vă rugăm să închideţi forţat alicaţia şi să o reporniţi. Este posibil să existe o conexiune setată incorect către aplicaţia Communis.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Dacă problema persistă, încercați să goliți memoria aplicației Communis și a aplicației Communis Notes, pentru a rezolva această problemă.</string>
     <string name="error_dialog_tip_clear_storage">Puteți să ștergeți memoria prin deschiderea meniului de informații iar mai apoi selectarea Stocare →  Golește memoria. ⚠️  Ateție: Această metodă va șterge notițele ce nu sunt încă sincronizate!</string>
-    <string name="error_dialog_tip_files_outdated">Aplicația dumneavoastră Nextcloud pare a fi învechită. Vă rugăm să vizitați Magazinul Google Play sau F-Droid pentru a descărca cea mai nouă versiune.</string>
-    <string name="error_dialog_tip_files_force_stop">Ceva pare a fi în neregulă cu aplicația Nextcloud. Vă rugăm să forțați închiderea aplicației Nextcloud și aplicația de Notițe Nextcloud.</string>
+    <string name="error_dialog_tip_files_outdated">Aplicația dumneavoastră Communis pare a fi învechită. Vă rugăm să vizitați Magazinul Google Play sau F-Droid pentru a descărca cea mai nouă versiune.</string>
+    <string name="error_dialog_tip_files_force_stop">Ceva pare a fi în neregulă cu aplicația Communis. Vă rugăm să forțați închiderea aplicației Communis și aplicația de Notițe Communis.</string>
     <string name="error_dialog_tip_files_delete_storage">Dacă inchiderea forțată nu este de folos, atunci puteți încerca ștergerea stocării celor două aplicații.</string>
     <string name="error_dialog_timeout_instance">Nu există un răsouns de la serverul dumneavoastră în timpul alocat. Vă rugăm să vă asigurați că serverul este funcțional și corect setat.</string>
     <string name="error_dialog_timeout_toggle">Vă rugăm să verificați conexiunea la rețea. Uneori activarea și dezactivarea datelor mobile sau Wi-Fi poate rezolva problema.</string>
     <string name="error_dialog_check_server">Răspunsul serverului dumneavoastră nu este corect. Vă rugăm să verificaţi dacă puteţi accesa Notiţe din browserul dumneavoastră web.</string>
     <string name="error_dialog_check_server_logs">Există o problemă cu setările serverului Nexcloud. Vă rugăm să verificaţi fişierele log de pe server.</string>
     <string name="error_dialog_check_maintenance">Vă rugăm să verificaţi dacă instanţa dumneavoastră nu se află în modul de mentenanţă.</string>
-    <string name="error_dialog_insufficient_storage">Instanţa dumneavoastră Nextcloud nu mai are spaţiu liber. Vă rugăm să ştergeţi nişte nişte fişiere pentru a începe sincronizarea.</string>
+    <string name="error_dialog_insufficient_storage">Instanţa dumneavoastră Communis nu mai are spaţiu liber. Vă rugăm să ştergeţi nişte nişte fişiere pentru a începe sincronizarea.</string>
     <string name="error_dialog_we_need_info">Avem nevoie de următoarele informații pentru a te putea ajuta:</string>
     <string name="error_dialog_server_app_enabled">Te rugăm să te asiguri că ai instalat și activat aplicația \"Notes\" pe serverul tău.</string>
-    <string name="error_dialog_redirect">Serverul tău nu a răspuns cu codul HTTP 302, ceea ce sugerează că nu ai instalată aplicația Notes pe server ceva este configurat greșit. Acest lucru poate fi cauzat de un fișier customizat .htaccess-file sau de aplicația Nextcloud precum clientul OID.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Vă rugăm să dezactivați toate optimizările de baterie pentru aplicațiile Nextcloud și Notes.</string>
-    <string name="error_dialog_min_version">Aplicaţia Android Notes necesită ca versiunea aplicaţiei Android Nextcloud să fie cel puţin la versiunea 3.18.</string>
+    <string name="error_dialog_redirect">Serverul tău nu a răspuns cu codul HTTP 302, ceea ce sugerează că nu ai instalată aplicația Notes pe server ceva este configurat greșit. Acest lucru poate fi cauzat de un fișier customizat .htaccess-file sau de aplicația Communis precum clientul OID.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Vă rugăm să dezactivați toate optimizările de baterie pentru aplicațiile Communis și Notes.</string>
+    <string name="error_dialog_min_version">Aplicaţia Android Notes necesită ca versiunea aplicaţiei Android Communis să fie cel puţin la versiunea 3.18.</string>
     <string name="added_content">Adăugat \"%1$s\"</string>
     <string name="shared_text_empty">Textul partajat a fost gol</string>
     <string name="append_to_note">Atașează  la notiță </string>
@@ -220,11 +220,11 @@
     <string name="formatting_help_codefence_outer" translateable="false">````</string>
     <string name="formatting_help_codefence_javascript" translateable="false">```javascript</string>
     <string name="formatting_help_cbf_title">Formatare bazata pe context</string>
-    <string name="formatting_help_cbf_body_1">Un obiectiv de proiectare a aplicației Nextcloud este de a oferi o unealtă fără alte distracții, deși vei putea să formatezi textul cu libajul Markdown. Pentru unele dintre exemplele de mai jos poți folosi scurtături pentru a putea formata notițele tale fără să fie nevoie să introduci codurile de mai jos.</string>
+    <string name="formatting_help_cbf_body_1">Un obiectiv de proiectare a aplicației Communis este de a oferi o unealtă fără alte distracții, deși vei putea să formatezi textul cu libajul Markdown. Pentru unele dintre exemplele de mai jos poți folosi scurtături pentru a putea formata notițele tale fără să fie nevoie să introduci codurile de mai jos.</string>
     <string name="formatting_help_cbf_body_2">Doar selectează un text sau atinge cursorul în orice poziție si vei vedea un meniu popup ce conține lângă  %1$s, %2$s, %3$s și alte opțiuni precum %4$s sau %5$s.</string>
 
     <string name="formatting_help_text_title">Text</string>
-    <string name="formatting_help_text_body">Este foarte ușor să %1$s îngrojezi%1$s niște cuvinte și alte cuvinte să le faci %2$s curesive %2$s cu limbajul Markdown. Poți %3$stăia%3$s câteva cuvinte sau chiar introduce un [link către Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Este foarte ușor să %1$s îngrojezi%1$s niște cuvinte și alte cuvinte să le faci %2$s curesive %2$s cu limbajul Markdown. Poți %3$stăia%3$s câteva cuvinte sau chiar introduce un [link către Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Liste</string>
     <string name="formatting_help_lists_body_1">Uneori dorești liste numerotate</string>
@@ -291,14 +291,14 @@
     <string name="simple_prev">Precedentul</string>
     <string name="simple_backup">Backup</string>
     <string name="backup">Am detectat o stare de nerecuperat acestei aplicații. Vă rugăm să vă sincronizați toate schimbările și să goliți stocarea aplicației Notes.</string>
-    <string name="settings_notes_path_description">Dosarul pentru stocare a notițelor în Nextcloud</string>
+    <string name="settings_notes_path_description">Dosarul pentru stocare a notițelor în Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Dosar nou pentru notițe: %1$s</string>
     <string name="settings_file_suffix">Extensia fişierului</string>
-    <string name="settings_file_suffix_description">Extensia fişierului pentru notiţele noi pe serverul dumneavoastră Nextcloud</string>
+    <string name="settings_file_suffix_description">Extensia fişierului pentru notiţele noi pe serverul dumneavoastră Communis</string>
     <string name="settings_file_suffix_success">Sufix pentru fişierele noi: %1$s</string>
     <string name="http_status_code">Codul de stare HTTP: %1$d</string>
     <string name="progress_import_indeterminate">Se importă notiţe...</string>

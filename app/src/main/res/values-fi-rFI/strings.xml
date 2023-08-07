@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Muistiinpanot</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">Communis Notes</string>
     <string name="label_all_notes">Kaikki muistiinpanot</string>
     <string name="label_favorites">Suosikit</string>
     <string name="action_create">Uusi muistiinpano</string>
@@ -61,14 +61,14 @@
     <string name="about_maintainer_title">Ylläpitäjät</string>
     <string name="about_developers_title">Kehittäjät</string>
     <string name="about_translators_title">Kääntäjät</string>
-    <string name="about_translators_transifex">Nextcloud-yhteisö paikassa %1$s</string>
+    <string name="about_translators_transifex">Communis-yhteisö paikassa %1$s</string>
     <string name="about_testers_title">Testaajat</string>
     <string name="about_source_title">Lähdekoodi</string>
     <string name="about_source">Tämä projekti on GitHubissa: %1$s</string>
     <string name="about_issues_title">Ongelmat</string>
     <string name="about_issues">Voit raportoida virheitä ja ehdottaa parannuksia ja uusia tomintoja GitHub:n ongelmien seuraaja toiminnolla: %1$s</string>
     <string name="about_translate_title">Käännä</string>
-    <string name="about_translate">Liity Nextcloud joukkoon Transflex:ssa ja auta meitä tämän sovelluksen käännöstyössä: %1$s</string>
+    <string name="about_translate">Liity Communis joukkoon Transflex:ssa ja auta meitä tämän sovelluksen käännöstyössä: %1$s</string>
     <string name="about_app_license_title">Sovelluslisenssi</string>
     <string name="about_app_license">Tämä sovellus on GNU GENERAL PUBLIC LICENSE v3+ -lisensoitu.</string>
     <string name="about_app_license_button">Näytä lisenssi</string>
@@ -145,23 +145,23 @@
     <string name="simple_checkbox">Valintaruutu</string>
     <string name="unlock_notes">Avaa muistiinpanojen lukitus</string>
     <string name="error_dialog_title">Voi ei - Mitä nyt? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Yritä pakottaa sovelluksen sulkeminen ja käynnistä se uudelleen. Nextcloud-sovellukseen on saattanut olla virheellinen yhteys.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Jos ongelma jatkuu, yritä tyhjentää sekä Nextcloud- että Nextcloud Notes-sovellusten tallennustilat ratkaistaksesi ongelman.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Yritä pakottaa sovelluksen sulkeminen ja käynnistä se uudelleen. Communis-sovellukseen on saattanut olla virheellinen yhteys.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Jos ongelma jatkuu, yritä tyhjentää sekä Communis- että Communis Notes-sovellusten tallennustilat ratkaistaksesi ongelman.</string>
     <string name="error_dialog_tip_clear_storage">Voit tyhjentää tallennustilan avaamalla sovelluksen tiedot ja valitsemalla Tallennustila → Tyhjennä tallennustila. Tämä poistaa kaikki synkronoimattomat muistiinpanot!</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud-sovelluksesi on vanhentunut. Lataa uusin version Play Storesta tai F-Droidista.</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloud-sovelluksessasi vaikuttaa olevan jokin ongelma. Yritä pakottaa sekä Nextcloud- että Nextcloud Notes-sovelluksen lopetus.</string>
+    <string name="error_dialog_tip_files_outdated">Communis-sovelluksesi on vanhentunut. Lataa uusin version Play Storesta tai F-Droidista.</string>
+    <string name="error_dialog_tip_files_force_stop">Communis-sovelluksessasi vaikuttaa olevan jokin ongelma. Yritä pakottaa sekä Communis- että Communis Notes-sovelluksen lopetus.</string>
     <string name="error_dialog_tip_files_delete_storage">Jos pakotettu lopettaminen ei auta, voit yrittää tyhjentää sovelluksien tallennustilan.</string>
     <string name="error_dialog_timeout_instance">Palvelimen aikakatkaisu. Varmista, että se on toiminnassa.</string>
     <string name="error_dialog_timeout_toggle">Tarkista verkkoyhteytesi. Joskus mobiilidatan ja Wi-Fin välillä vaihtaminen saattaa auttaa. </string>
     <string name="error_dialog_check_server">Palvelimesi vastaus oli virheellinen. Tarkista, onnistuuko muistiinpanojen käyttäminen verkkokäyttöliittymän kautta.</string>
-    <string name="error_dialog_check_server_logs">Nextcloud-asennuksessasi on ongelma. Katso lisätietoja palvelimen lokitiedostoista.</string>
-    <string name="error_dialog_check_maintenance">Varmista, ettei Nextcloud-palvelin ole ylläpitotilassa.</string>
-    <string name="error_dialog_insufficient_storage">Nextcloud-palvelimellasi ei ole vapaata tallennustilaa. Poista tiedostoja, jotta paikallisten muutosten synkronointi pilveen onnistuu.</string>
+    <string name="error_dialog_check_server_logs">Communis-asennuksessasi on ongelma. Katso lisätietoja palvelimen lokitiedostoista.</string>
+    <string name="error_dialog_check_maintenance">Varmista, ettei Communis-palvelin ole ylläpitotilassa.</string>
+    <string name="error_dialog_insufficient_storage">Communis-palvelimellasi ei ole vapaata tallennustilaa. Poista tiedostoja, jotta paikallisten muutosten synkronointi pilveen onnistuu.</string>
     <string name="error_dialog_we_need_info">Tarvitsemme seuraavat tekniset tiedot auttaaksemme sinua:</string>
     <string name="error_dialog_server_app_enabled">Varmista, että olet asentanut \"Notes\"-sovelluksen palvelimellasi.</string>
-    <string name="error_dialog_redirect">Palvelimesi vastasi HTTP 302-tilakoodilla, joka viittaa siihen, että sinulla ei ole Notes-sovellusta asennettuna palvelimellesi tai jokin asetus on väärin. Tämä saattaa johtua mukautetusta .htaccess-tiedostosta tai Nextcloud-sovelluksista, kuten OID-Clientistä.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Poista käytöstä akun optimointi Nextcloud- ja Muistiinpanot-sovelluksilta.</string>
-    <string name="error_dialog_min_version">Muistiinpanosovellus vaatii Nextcloud-sovelluksen version 3.18 tai uudemman.</string>
+    <string name="error_dialog_redirect">Palvelimesi vastasi HTTP 302-tilakoodilla, joka viittaa siihen, että sinulla ei ole Notes-sovellusta asennettuna palvelimellesi tai jokin asetus on väärin. Tämä saattaa johtua mukautetusta .htaccess-tiedostosta tai Communis-sovelluksista, kuten OID-Clientistä.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Poista käytöstä akun optimointi Communis- ja Muistiinpanot-sovelluksilta.</string>
+    <string name="error_dialog_min_version">Muistiinpanosovellus vaatii Communis-sovelluksen version 3.18 tai uudemman.</string>
     <string name="added_content">Lisätty \"%1$s\"</string>
     <string name="shared_text_empty">Jaettu teksti oli tyhjä</string>
     <string name="append_to_note">Lisää muistiinpanoon</string>
@@ -216,7 +216,7 @@
     <string name="formatting_help_cbf_body_2">Valitse vain teksti tai näpäytä mitä tahansa kohtaa ruudulta ja ponnahdusvalikko aukeaa. Valikossa on oletusvalintojen %1$s, %2$sja %3$s lisäksi pikavalintoja kuten %4$s ja %5$s.</string>
 
     <string name="formatting_help_text_title">Teksti</string>
-    <string name="formatting_help_text_body">On todella helppoa %1$slihavoida%1$s ja %2$skursivoida%2$s sanoja Markdownilla. Voit %3$syliviivata%3$s sanoja ja jopa [linkata Nextcloudiin](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">On todella helppoa %1$slihavoida%1$s ja %2$skursivoida%2$s sanoja Markdownilla. Voit %3$syliviivata%3$s sanoja ja jopa [linkata Communisiin](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Luettelot</string>
     <string name="formatting_help_lists_body_1">Joskus saatat haluta numeroituja luetteloita:</string>
@@ -279,14 +279,14 @@
     <string name="simple_prev">Edellinen</string>
     <string name="simple_backup">Varmuuskopioi</string>
     <string name="backup">Havaitsimme virheellisen sovelluksen tilan, jota ei voida palauttaa. Varmuuskopioi synkronoimattomat muutokset ja tyhjennä muistiinpanosovelluksen tallennustila.</string>
-    <string name="settings_notes_path_description">Hakemisto, johon muistiinpanot tallennetaan Nextcloudissa</string>
+    <string name="settings_notes_path_description">Hakemisto, johon muistiinpanot tallennetaan Communisissa</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Uusi muistiinpanojen hakemisto: %1$s</string>
     <string name="settings_file_suffix">Tiedostopääte</string>
-    <string name="settings_file_suffix_description">Tiedostopääte uusille Nextcloud-muistiinpanoille</string>
+    <string name="settings_file_suffix_description">Tiedostopääte uusille Communis-muistiinpanoille</string>
     <string name="settings_file_suffix_success">Uuden tiedoston pääte: %1$s</string>
     <string name="http_status_code">HTTP-tilakoodi: %1$d</string>
     <string name="progress_import_indeterminate">Tuodaan muistiinpanoja...</string>

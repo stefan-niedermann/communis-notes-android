@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notes</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">Communis Notes</string>
     <string name="label_all_notes">All notes</string>
     <string name="label_favorites">Favorites</string>
     <string name="action_create">New note</string>
@@ -60,9 +60,9 @@
     <string name="error_maintenance_mode">Server is in maintenance mode</string>
     <string name="error_unknown">An unknown error has occurred.</string>
 
-    <string name="url_source" translatable="false">https://github.com/nextcloud/notes-android</string>
+    <string name="url_source" translatable="false">https://github.com/stefan-niedermann/communis-notes-android</string>
     <string name="url_issues" translatable="false">https://github.com/nextcloud/notes-android/issues/new/choose</string>
-    <string name="url_license" translatable="false">https://github.com/nextcloud/notes-android/blob/main/LICENSE</string>
+    <string name="url_license" translatable="false">https://github.com/stefan-niedermann/communis-notes-android/blob/main/LICENSE</string>
     <string name="url_translations" translatable="false">https://app.transifex.com/nextcloud/nextcloud/</string>
     <string name="url_niedermann_it" translatable="false">https://www.niedermann.it/</string>
     <string name="url_about_icon_author" translatable="false">https://github.com/nextcloud/notes/blob/76d15214f80f2bf7ea08427bff73ad145128f090/img/notes.svg</string>
@@ -71,13 +71,13 @@
     <string name="about_version_title">Version</string>
     <string name="about_version">You are currently using %1$s</string>
     <string name="about_maintainer_title">Maintainer</string>
-    <string name="about_maintainer" translatable="false">Nextcloud</string>
+    <string name="about_maintainer" translatable="false">Communis</string>
     <string name="about_developers_title">Developers</string>
     <string name="about_developers" translatable="false">%1$s, Kristof Hamann, HeaDBanGer84, Felix Edelmann, Daniel Bailey</string>
     <string name="about_developers_stefan" translatable="false">Stefan Niedermann (%1$s)</string>
     <string name="about_developers_original_author">original author</string>
     <string name="about_translators_title">Translators</string>
-    <string name="about_translators_transifex">Nextcloud community on %1$s</string>
+    <string name="about_translators_transifex">Communis community on %1$s</string>
     <string name="about_translators_transifex_label" translatable="false">Transifex</string>
     <string name="about_testers_title">Testers</string>
     <string name="about_testers" translatable="false">Jan C. Borchardt</string>
@@ -86,7 +86,7 @@
     <string name="about_issues_title">Issues</string>
     <string name="about_issues">You can report bugs, enhancement proposals and feature requests at the GitHub issue tracker: %1$s</string>
     <string name="about_translate_title">Translate</string>
-    <string name="about_translate">Join the Nextcloud team on Transifex and help us to translate this app: %1$s</string>
+    <string name="about_translate">Join the Communis team on Transifex and help us to translate this app: %1$s</string>
     <string name="about_app_license_title">App license</string>
     <string name="about_app_license">This application is licensed under the GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">View license</string>
@@ -187,23 +187,23 @@
     <string name="simple_checkbox">Checkbox</string>
     <string name="unlock_notes">Unlock notes</string>
     <string name="error_dialog_title">Oh no - What now? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Please try to force close the app and restart it again. There might have been an incorrect connection to the Nextcloud app.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">If the issue persists, try to clear the storage of both apps: Nextcloud and Nextcloud Notes to solve this issue.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Please try to force close the app and restart it again. There might have been an incorrect connection to the Communis app.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">If the issue persists, try to clear the storage of both apps: Communis and Communis Notes to solve this issue.</string>
     <string name="error_dialog_tip_clear_storage">You can clear the storage by opening the app info and selecting Storage → Clear storage. ⚠️ Warning: This will delete not yet synchronized notes!</string>
-    <string name="error_dialog_tip_files_outdated">Your Nextcloud app seems to be outdated. Please visit the Play Store or F-Droid to get the latest version.</string>
-    <string name="error_dialog_tip_files_force_stop">Something seems to be wrong with your Nextcloud app. Please try to force stop both, the Nextcloud app and the Nextcloud Notes app.</string>
+    <string name="error_dialog_tip_files_outdated">Your Communis app seems to be outdated. Please visit the Play Store or F-Droid to get the latest version.</string>
+    <string name="error_dialog_tip_files_force_stop">Something seems to be wrong with your Communis app. Please try to force stop both, the Communis app and the Communis Notes app.</string>
     <string name="error_dialog_tip_files_delete_storage">If force stopping them does not help, you can try to clear the storage of both apps.</string>
     <string name="error_dialog_timeout_instance">There wasn\'t a response from your server in the given time. Please make sure your instance is running well.</string>
     <string name="error_dialog_timeout_toggle">Check your network connection. Sometime toggling the mobile data or Wi-Fi off and on again can help.</string>
     <string name="error_dialog_check_server">The response of your server was not correct. Please check whether you can access your notes via web interface.</string>
-    <string name="error_dialog_check_server_logs">There is an issue with your Nextcloud setup. Please have a look into the server log files.</string>
-    <string name="error_dialog_check_maintenance">Please check whether your Nextcloud instance is not currently in maintenance mode.</string>
-    <string name="error_dialog_insufficient_storage">Your Nextcloud instance has no free storage left. Please delete some files to sync your local changes into your cloud.</string>
+    <string name="error_dialog_check_server_logs">There is an issue with your Communis setup. Please have a look into the server log files.</string>
+    <string name="error_dialog_check_maintenance">Please check whether your Communis instance is not currently in maintenance mode.</string>
+    <string name="error_dialog_insufficient_storage">Your Communis instance has no free storage left. Please delete some files to sync your local changes into your cloud.</string>
     <string name="error_dialog_we_need_info">We need the following technical information to help you:</string>
     <string name="error_dialog_server_app_enabled">Please make sure you have installed and enabled the "Notes" app on your server.</string>
-    <string name="error_dialog_redirect">Your server did respond with a HTTP 302 status code, which implies, that you do not have installed the Notes app on your server or something is misconfigured. This can be caused by custom overrides in a .htaccess-file or by Nextcloud apps like OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Please disable all battery optimizations for Nextcloud and the Notes app.</string>
-    <string name="error_dialog_min_version">The Notes Android app requires the Nextcloud Android app to be at least version 3.18.</string>
+    <string name="error_dialog_redirect">Your server did respond with a HTTP 302 status code, which implies, that you do not have installed the Notes app on your server or something is misconfigured. This can be caused by custom overrides in a .htaccess-file or by Communis apps like OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Please disable all battery optimizations for Communis and the Notes app.</string>
+    <string name="error_dialog_min_version">The Notes Android app requires the Communis Android app to be at least version 3.18.</string>
     <string name="added_content">Added "%1$s"</string>
     <string name="shared_text_empty">Shared text was empty</string>
     <string name="append_to_note">Append to note</string>
@@ -285,7 +285,7 @@
     <string name="formatting_help_cbf_body_2">Just select a range of text or tap on your cursor at any position and you will get a popup menu which contains next to the default entries %1$s, %2$s, %3$s entries like %4$s or %5$s.</string>
 
     <string name="formatting_help_text_title">Text</string>
-    <string name="formatting_help_text_body">It\'s very easy to make some words %1$sbold%1$s and other words %2$sitalic%2$s with Markdown. You can %3$sstrike%3$s some words through and even [link to Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">It\'s very easy to make some words %1$sbold%1$s and other words %2$sitalic%2$s with Markdown. You can %3$sstrike%3$s some words through and even [link to Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Lists</string>
     <string name="formatting_help_lists_body_1">Sometimes you want numbered lists:</string>
@@ -353,14 +353,14 @@
     <string name="simple_prev">Previous</string>
     <string name="simple_backup">Backup</string>
     <string name="backup">We detected an irrecoverably state of the app. Please backup your unsynchronized changes and clear the storage of the Notes app.</string>
-    <string name="settings_notes_path_description">Folder to store your notes in your Nextcloud</string>
+    <string name="settings_notes_path_description">Folder to store your notes in your Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">New notes folder: %1$s</string>
     <string name="settings_file_suffix">File extension</string>
-    <string name="settings_file_suffix_description">File extension for new notes in your Nextcloud</string>
+    <string name="settings_file_suffix_description">File extension for new notes in your Communis</string>
     <string name="settings_file_suffix_success">New file suffix: %1$s</string>
     <string name="http_status_code">HTTP status code: %1$d</string>
     <string name="progress_import_indeterminate">Importing notes…</string>

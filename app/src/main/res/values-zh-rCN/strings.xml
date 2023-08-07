@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">笔记</string>
-    <string name="app_name_long">Nextcloud 笔记</string>
+    <string name="app_name_long">Communis 笔记</string>
     <string name="label_all_notes">所有笔记</string>
     <string name="label_favorites">收藏</string>
     <string name="action_create">新建笔记</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">开发者</string>
     <string name="about_developers_original_author">原作者</string>
     <string name="about_translators_title">翻译人员</string>
-    <string name="about_translators_transifex">%1$s 上的 Nextcloud 社区</string>
+    <string name="about_translators_transifex">%1$s 上的 Communis 社区</string>
     <string name="about_testers_title">测试人员</string>
     <string name="about_source_title">源代码</string>
     <string name="about_source">此项目托管在GitHub上：%1$s</string>
     <string name="about_issues_title">问题</string>
     <string name="about_issues">你可以通过GitHub议题跟踪器报告bug、提议增强已有功能和请求新功能：%1$s</string>
     <string name="about_translate_title">翻译</string>
-    <string name="about_translate">加入 Transifex 上的 Nextcloud 团队，帮助我们翻译这个应用程序：%1$s</string>
+    <string name="about_translate">加入 Transifex 上的 Communis 团队，帮助我们翻译这个应用程序：%1$s</string>
     <string name="about_app_license_title">应用授权</string>
     <string name="about_app_license">此程序通过 GNU 通用公共许可证 V3+ 授权。</string>
     <string name="about_app_license_button">查看授权</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">复选框</string>
     <string name="unlock_notes">解锁笔记</string>
     <string name="error_dialog_title">哦，不。所以会怎么样？🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">请尝试强行关闭应用并重新打开。可能是与 Nextcloud 应用的连接不正确。</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">如果问题持续存在，尝试通过清除 Nextcloud 和 Nextcloud 笔记两个应用的缓存来解决问题。</string>
+    <string name="error_dialog_tip_token_mismatch_retry">请尝试强行关闭应用并重新打开。可能是与 Communis 应用的连接不正确。</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">如果问题持续存在，尝试通过清除 Communis 和 Communis 笔记两个应用的缓存来解决问题。</string>
     <string name="error_dialog_tip_clear_storage">你可以通过打开应用信息，选择“存储>清除存储”来清除存储。⚠️ 警告：这将删除尚未同步的笔记！</string>
-    <string name="error_dialog_tip_files_outdated">您的 Nextcloud 应用似乎已经过时了。请访问 Play 商店或 F-Droid 以获取最新版本。</string>
-    <string name="error_dialog_tip_files_force_stop">您的 Nextcloud 应用似乎出现了问题。请尝试强行停止 Nextcloud 和 Nextcloud 笔记两个应用。</string>
+    <string name="error_dialog_tip_files_outdated">您的 Communis 应用似乎已经过时了。请访问 Play 商店或 F-Droid 以获取最新版本。</string>
+    <string name="error_dialog_tip_files_force_stop">您的 Communis 应用似乎出现了问题。请尝试强行停止 Communis 和 Communis 笔记两个应用。</string>
     <string name="error_dialog_tip_files_delete_storage">如果强行停止没有效果，您可以尝试清除两个应用的存储空间。</string>
     <string name="error_dialog_timeout_instance">服务器没有在规定的时间内回答。请确保您的服务器实例在正常运行。</string>
     <string name="error_dialog_timeout_toggle">检查您的网络连接。有时候关闭并重新开启移动数据或 Wi-Fi 有帮助。</string>
     <string name="error_dialog_check_server">服务器响应的内容不正确。请检查您是否能通过网页界面访问笔记应用。</string>
-    <string name="error_dialog_check_server_logs">您的 Nextcloud 配置有一些问题。请查看服务器日志。</string>
-    <string name="error_dialog_check_maintenance">请检查您的 Nextcloud 实例是否处于维护模式。</string>
-    <string name="error_dialog_insufficient_storage">您的 Nextcloud 实例已经没有可用的存储空间了。请删除一些文件来允许本地的变更同步到云。</string>
+    <string name="error_dialog_check_server_logs">您的 Communis 配置有一些问题。请查看服务器日志。</string>
+    <string name="error_dialog_check_maintenance">请检查您的 Communis 实例是否处于维护模式。</string>
+    <string name="error_dialog_insufficient_storage">您的 Communis 实例已经没有可用的存储空间了。请删除一些文件来允许本地的变更同步到云。</string>
     <string name="error_dialog_we_need_info">我们需要以下技术信息来帮助您：</string>
     <string name="error_dialog_server_app_enabled">请确保您已经在您的服务器上安装并已启用了“笔记”应用。</string>
-    <string name="error_dialog_redirect">您的服务器确实以 HTTP 302 状态代码响应，这意味着您的服务器上没有安装笔记应用，或者是配置错误。这可能是由 .htaccess 文件中或如OID客户端的 Nextcloud 应用程序的自定义重载造成的。</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">请为Nextcloud应用以及笔记应用禁用所有电池优化设置。</string>
-    <string name="error_dialog_min_version">Notes 安卓应用需要的 Nextcloud 安卓应用的最低版本为 3.18</string>
+    <string name="error_dialog_redirect">您的服务器确实以 HTTP 302 状态代码响应，这意味着您的服务器上没有安装笔记应用，或者是配置错误。这可能是由 .htaccess 文件中或如OID客户端的 Communis 应用程序的自定义重载造成的。</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">请为Communis应用以及笔记应用禁用所有电池优化设置。</string>
+    <string name="error_dialog_min_version">Notes 安卓应用需要的 Communis 安卓应用的最低版本为 3.18</string>
     <string name="added_content">添加%1$s</string>
     <string name="shared_text_empty">共享文本是空的</string>
     <string name="append_to_note">追加笔记</string>
@@ -221,7 +221,7 @@
     <string name="formatting_help_cbf_body_2">只需选中一段文本或在您任何位置处的光标上单击，您将获得一个弹出包括以下默认实体的弹出菜单，包括%1$s，%2$s，%3$s和%4$s或%5$s。</string>
 
     <string name="formatting_help_text_title">文本 </string>
-    <string name="formatting_help_text_body">使用Markdown将使您非常容易的对%1$s加粗为%1$s，并且其他文本%2$s倾斜为%2$s。您可以%3$s删除%3$s某些文本并甚至可以[链接到Nextcloud](https://nextcloud.com)。</string>
+    <string name="formatting_help_text_body">使用Markdown将使您非常容易的对%1$s加粗为%1$s，并且其他文本%2$s倾斜为%2$s。您可以%3$s删除%3$s某些文本并甚至可以[链接到Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/)。</string>
 
     <string name="formatting_help_lists_title">列表</string>
     <string name="formatting_help_lists_body_1">有时您希望有一个已经自动编号过的列表：</string>
@@ -286,14 +286,14 @@
     <string name="simple_prev">上一则</string>
     <string name="simple_backup">备份</string>
     <string name="backup">我们检测到应用程序一个不可恢复的状态。请备份您的未同步的更改并清除Notes应用程序的存储。</string>
-    <string name="settings_notes_path_description">在你的 Nextcloud 中储存你的笔记的文件夹 </string>
+    <string name="settings_notes_path_description">在你的 Communis 中储存你的笔记的文件夹 </string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt </item>
         <item translatable="false">.md </item>
     </string-array>
     <string name="settings_notes_path_success">新笔记文件夹：%1$s</string>
     <string name="settings_file_suffix">文件扩展名</string>
-    <string name="settings_file_suffix_description">你的 Nextcloud 中新笔记的文件扩展名</string>
+    <string name="settings_file_suffix_description">你的 Communis 中新笔记的文件扩展名</string>
     <string name="settings_file_suffix_success">新文件后缀：%1$s</string>
     <string name="http_status_code">HTTP 状态码：%1$d</string>
     <string name="progress_import_indeterminate">导入笔记中…</string>

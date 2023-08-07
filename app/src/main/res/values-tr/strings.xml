@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notlar</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">Communis Notes</string>
     <string name="label_all_notes">Tum notlar</string>
     <string name="label_favorites">Sık kullanılanlar</string>
     <string name="action_create">Not ekle</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Geliştiriciler</string>
     <string name="about_developers_original_author">özgün yazar</string>
     <string name="about_translators_title">Çevirmenler</string>
-    <string name="about_translators_transifex">%1$s üzerindeki Nextcloud topluluğu</string>
+    <string name="about_translators_transifex">%1$s üzerindeki Communis topluluğu</string>
     <string name="about_testers_title">Deneyenler</string>
     <string name="about_source_title">Kaynak kodu</string>
     <string name="about_source">Bu proje GitHub üzerinde barındırılmaktadır: %1$s</string>
     <string name="about_issues_title">Sorunlar</string>
     <string name="about_issues">Sorun, istek ve önerilerinizi GitHub sorun izleyiciye yazabilirsiniz: %1$s</string>
     <string name="about_translate_title">Çevirin</string>
-    <string name="about_translate">Transifex üzerindeki Nextcloud takımına katılarak uygulamayı çevirmemize yardımcı olabilirsiniz: %1$s</string>
+    <string name="about_translate">Transifex üzerindeki Communis takımına katılarak uygulamayı çevirmemize yardımcı olabilirsiniz: %1$s</string>
     <string name="about_app_license_title">Uygulama lisansı</string>
     <string name="about_app_license">Bu uygulama GNU GENEL KAMU LİSANSI 3 sürüm ve üzeri koşulları altında dağıtılmaktadır.</string>
     <string name="about_app_license_button">Lisansa bakın</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">İşaret kutusu</string>
     <string name="unlock_notes">Kilidi açma notları</string>
     <string name="error_dialog_title">Hayıır. Şimdi ne olacak? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Lütfen uygulamayı zorla kapatıp yeniden başlatın. Yanlış bir Nextcloud uygulaması bağlantısı olmalı.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Sorun sürerse, çözmek için hem Nextcloud uygulamasının hem de Nextcloud Notlar uygulamasının depolamalarını temizlemeyi deneyin.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Lütfen uygulamayı zorla kapatıp yeniden başlatın. Yanlış bir Communis uygulaması bağlantısı olmalı.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Sorun sürerse, çözmek için hem Communis uygulamasının hem de Communis Notlar uygulamasının depolamalarını temizlemeyi deneyin.</string>
     <string name="error_dialog_tip_clear_storage">Depolamayı temizlemek için uygulama bilgilerini açın ve Depolama (Hafıza) → Depolamayı temizle (Veriyi sil) seçin. ⚠️ Uyarı: Bu işlem henüz eşitlenmemiş notları silmeyecek!</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud uygulamanız eski görünüyor. Lütfen son sürümü almak için Play Store ya da F-Droid mağazalarına gidin.</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloud uygulamanızda bir sorun var gibi görünüyor. Lütfen hem Nextcloud uygulamasını hem de Nextcloud Notlar uygulamasını zorla kapatmayı deneyin.</string>
+    <string name="error_dialog_tip_files_outdated">Communis uygulamanız eski görünüyor. Lütfen son sürümü almak için Play Store ya da F-Droid mağazalarına gidin.</string>
+    <string name="error_dialog_tip_files_force_stop">Communis uygulamanızda bir sorun var gibi görünüyor. Lütfen hem Communis uygulamasını hem de Communis Notlar uygulamasını zorla kapatmayı deneyin.</string>
     <string name="error_dialog_tip_files_delete_storage">Zorla durdurmak sorunu çözmediyse iki uygulamanın da depolamalarını temizlemeyi deneyebilirsiniz.</string>
     <string name="error_dialog_timeout_instance">Belirtilen sürede sunucunuzdan bir yanıt alınamadı. Lütfen kopyanızın düzgün çalıştığından emin olun.</string>
     <string name="error_dialog_timeout_toggle">Ağ bağlantınızı denetleyin. Mobil veriye geçmek ya da Wi-Fi bağlantısını kapatıp açmak yardımcı olabilir.</string>
     <string name="error_dialog_check_server">Sunucunuz doğru şekilde yanıt vermedi. Lütfen notlarınıza site arayüzü üzerinden erişebiliyor musunuz diye bakın.</string>
-    <string name="error_dialog_check_server_logs">Nextcloud kurulumunuz ile ilgili bir sorun var. Lütfen sunucu günlük dosyalarını inceleyin.</string>
-    <string name="error_dialog_check_maintenance">Nextcloud kopyanızın bakım kipinde olmadığından emin olun.</string>
-    <string name="error_dialog_insufficient_storage">Nextcloud kopyanızda boş depolama alanı kalmamış. Lütfen yerel değişikliklerinizi bulut ile eşitlemek için bazı dosyaları silerek yer açın.</string>
+    <string name="error_dialog_check_server_logs">Communis kurulumunuz ile ilgili bir sorun var. Lütfen sunucu günlük dosyalarını inceleyin.</string>
+    <string name="error_dialog_check_maintenance">Communis kopyanızın bakım kipinde olmadığından emin olun.</string>
+    <string name="error_dialog_insufficient_storage">Communis kopyanızda boş depolama alanı kalmamış. Lütfen yerel değişikliklerinizi bulut ile eşitlemek için bazı dosyaları silerek yer açın.</string>
     <string name="error_dialog_we_need_info">Size yardımcı olabilmemiz için şu teknik bilgilere gerek duyacağız:</string>
     <string name="error_dialog_server_app_enabled">Lütfen sunucunuzda \"Notlar\" uygulamasının kurulu ve etkinleştirilmiş olduğundan emin olun.</string>
-    <string name="error_dialog_redirect">Sunucunuz, üzerine Notlar uygulamasının kurulmadığı ya da bir şeyin yanlış yapılandırıldığı anlamına gelen HTTP 302 durum kodu ile yanıt verdi. Bu durum, bir .htaccess dosyasındaki özel kısıtlamalardan ya da OID İstemcisi gibi Nextcloud uygulamalarından kaynaklanabilir.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Lütfen Nextcloud ve Notlar uygulaması için tüm pil iyileştirmelerini devre dışı bırakın.</string>
-    <string name="error_dialog_min_version">Notlar Android uygulamasının çalışması için Nextcloud Android uygulamasının en az 3.18 sürümü gereklidir</string>
+    <string name="error_dialog_redirect">Sunucunuz, üzerine Notlar uygulamasının kurulmadığı ya da bir şeyin yanlış yapılandırıldığı anlamına gelen HTTP 302 durum kodu ile yanıt verdi. Bu durum, bir .htaccess dosyasındaki özel kısıtlamalardan ya da OID İstemcisi gibi Communis uygulamalarından kaynaklanabilir.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Lütfen Communis ve Notlar uygulaması için tüm pil iyileştirmelerini devre dışı bırakın.</string>
+    <string name="error_dialog_min_version">Notlar Android uygulamasının çalışması için Communis Android uygulamasının en az 3.18 sürümü gereklidir</string>
     <string name="added_content">\"%1$s\" eklendi</string>
     <string name="shared_text_empty">Paylaşılan metin boş</string>
     <string name="append_to_note">Nota ekle</string>
@@ -225,7 +225,7 @@
     <string name="formatting_help_cbf_body_2">Yalnızca bir metin bölümü seçerek ya da herhangi bir konumda imlece dokunarak varsayılan kayıtların yanında açılan menüden %1$s, %2$s, %3$s, %4$s gibi kayıtlar ya da %5$s seçenekleri kullanabilirsiniz.</string>
 
     <string name="formatting_help_text_title">Metin</string>
-    <string name="formatting_help_text_body">Markdown ile bazı sözcükleri %1$skalın%1$s ya da %2$syatık%2$s yapmak çok kolaydır. Bazı sözcüklerin %3$süzerini çizebilir%3$s ve [Nextcloud bağlantısı](https://nextcloud.com) gibi bağlantı verebilirsiniz.</string>
+    <string name="formatting_help_text_body">Markdown ile bazı sözcükleri %1$skalın%1$s ya da %2$syatık%2$s yapmak çok kolaydır. Bazı sözcüklerin %3$süzerini çizebilir%3$s ve [Communis bağlantısı](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/) gibi bağlantı verebilirsiniz.</string>
 
     <string name="formatting_help_lists_title">Listeler</string>
     <string name="formatting_help_lists_body_1">Bazen listelerin numaralı olmasını istersiniz:</string>
@@ -291,14 +291,14 @@
     <string name="simple_prev">Önceki</string>
     <string name="simple_backup">Yedekle</string>
     <string name="backup">Uygulamada geri döndürülemeyecek bir durum algılandı. Lütfen eşitlenmemiş değişikliklerinizi yedekleyin ve Notes uygulamasının depolama alanını temizleyin.</string>
-    <string name="settings_notes_path_description">Nextcloud üzerinde notlarınızın kaydedileceği klasör </string>
+    <string name="settings_notes_path_description">Communis üzerinde notlarınızın kaydedileceği klasör </string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Yeni notlar klasörü: %1$s</string>
     <string name="settings_file_suffix">Dosya uzantısı</string>
-    <string name="settings_file_suffix_description">Nextcloud üzerinde notlarınız için kullanılacak dosya uzantısı </string>
+    <string name="settings_file_suffix_description">Communis üzerinde notlarınız için kullanılacak dosya uzantısı </string>
     <string name="settings_file_suffix_success">Yeni dosya son eki: %1$s</string>
     <string name="http_status_code">HTTP durum kodu: %1$d</string>
     <string name="progress_import_indeterminate">Notlar içe aktarılıyor…</string>

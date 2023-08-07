@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Nòtas</string>
-    <string name="app_name_long">Nòtas de Nextcloud</string>
+    <string name="app_name_long">Nòtas de Communis</string>
     <string name="label_all_notes">Totas las nòtas</string>
     <string name="label_favorites">Favoridas</string>
     <string name="action_create">Nòta novèla</string>

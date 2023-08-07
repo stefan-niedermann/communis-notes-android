@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notater</string>
-    <string name="app_name_long">Nextcloud Notater</string>
+    <string name="app_name_long">Communis Notater</string>
     <string name="label_all_notes">Alle notater</string>
     <string name="label_favorites">Favoritter</string>
     <string name="action_create">Nytt notat</string>
@@ -65,14 +65,14 @@
     <string name="about_developers_title">Utviklere</string>
     <string name="about_developers_original_author">original forfatter</string>
     <string name="about_translators_title">Oversettere</string>
-    <string name="about_translators_transifex">Nextcloud-fellesskapet på %1$s</string>
+    <string name="about_translators_transifex">Communis-fellesskapet på %1$s</string>
     <string name="about_testers_title">Testere</string>
     <string name="about_source_title">Kildekode</string>
     <string name="about_source">Dette prosjektet er på GitHub: %1$s</string>
     <string name="about_issues_title">Feil</string>
     <string name="about_issues">Du kan rapportere inn feil, forbedringsforslag og funksjonsforespørsler på GitHub issue tracker: %1$s</string>
     <string name="about_translate_title">Oversett</string>
-    <string name="about_translate">Bli med og hjelp oss å oversette Nextcloud på vår Transifex side: %1$s </string>
+    <string name="about_translate">Bli med og hjelp oss å oversette Communis på vår Transifex side: %1$s </string>
     <string name="about_app_license_title">Lisens</string>
     <string name="about_app_license">Denne appen er lisensiert under GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Vis lisens</string>
@@ -150,23 +150,23 @@
     <string name="simple_checkbox">Avkryssningsboks</string>
     <string name="unlock_notes">Lås opp notater</string>
     <string name="error_dialog_title">Å nei - Hva nå? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Prøv å tvinge avslutning av appen og start den på nytt. Det kan ha vært en feiltilkobling til Nextcloud-appen.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Hvis problemet vedvarer, prøv å tømme lageret for begge disse appene for å løse problemet: Nextcloud og Nextcloud Notater.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Prøv å tvinge avslutning av appen og start den på nytt. Det kan ha vært en feiltilkobling til Communis-appen.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Hvis problemet vedvarer, prøv å tømme lageret for begge disse appene for å løse problemet: Communis og Communis Notater.</string>
     <string name="error_dialog_tip_clear_storage">Du kan tømme lagringen ved å åpne appinformasjonen og velge Lagring → Tøm lagring. ⚠️ Advarsel: Dette vil slette notater som ikke er synkronisert ennå!</string>
-    <string name="error_dialog_tip_files_outdated">Det virker som Nextcloud appen er utdatert. Venligst besøk Play Sore eller F-Droid for å finne siste versjon.</string>
-    <string name="error_dialog_tip_files_force_stop">Det virker som noe er galt med Nextcloud-appen. Vennligst prøv å tvinge avslutning av Nextcloud-appen og Nextcloud Notater-appen.</string>
+    <string name="error_dialog_tip_files_outdated">Det virker som Communis appen er utdatert. Venligst besøk Play Sore eller F-Droid for å finne siste versjon.</string>
+    <string name="error_dialog_tip_files_force_stop">Det virker som noe er galt med Communis-appen. Vennligst prøv å tvinge avslutning av Communis-appen og Communis Notater-appen.</string>
     <string name="error_dialog_tip_files_delete_storage">Hvis det ikke hjelper med tving avslutt, så kan du prøve å tømme lageret for begge appene.</string>
     <string name="error_dialog_timeout_instance">Serveren svarer ikke innen en gitt tid. Vennligst påse at serveren er tilgjengelig.</string>
     <string name="error_dialog_timeout_toggle">Sjekk nettverkstilkoblingen. Noen ganger hjelper det å skru av og på mobil data eller WI-FI tilkoblingen.</string>
     <string name="error_dialog_check_server">Svaret fra serveren var feil. Vennligst påse at du har tilgang til notatene dine via nettgrensesnittet.</string>
-    <string name="error_dialog_check_server_logs">Det er et problem med Nextcloud oppsettet ditt. Vennligst ta en titt i loggfilene til serveren.</string>
-    <string name="error_dialog_check_maintenance">Vennligst sjekk at Nextcloud instansen ikke er i vedlikeholdsmodus for øyeblikket.</string>
-    <string name="error_dialog_insufficient_storage">Nextcloud instansen har ikke mer ledig lagringsplass. Vennligst slett noen filer for å synkronisere de lokale endringen til skyen din.</string>
+    <string name="error_dialog_check_server_logs">Det er et problem med Communis oppsettet ditt. Vennligst ta en titt i loggfilene til serveren.</string>
+    <string name="error_dialog_check_maintenance">Vennligst sjekk at Communis instansen ikke er i vedlikeholdsmodus for øyeblikket.</string>
+    <string name="error_dialog_insufficient_storage">Communis instansen har ikke mer ledig lagringsplass. Vennligst slett noen filer for å synkronisere de lokale endringen til skyen din.</string>
     <string name="error_dialog_we_need_info">Vi trenger følgende teknisk informasjon for å kunne hjelpe deg:</string>
     <string name="error_dialog_server_app_enabled">Vennligst påse at du har installert og aktivert \"Notes\"-appen på serveren.</string>
-    <string name="error_dialog_redirect">Serveren din svarte med en HTTP 302-statuskode, noe som antyder at du ikke har installert Notater-appen på serveren din, eller at noe er feilkonfigurert. Dette kan være forårsaket av tilpassede overstyringer i en .htaccess-fil eller av Nextcloud-apper som OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Deaktiver alle batterioptimaliseringer for Nextcloud og Notater-appen.</string>
-    <string name="error_dialog_min_version">Notater-androidappen krever at Nextcloud-androidappen er minst versjon 3.18.</string>
+    <string name="error_dialog_redirect">Serveren din svarte med en HTTP 302-statuskode, noe som antyder at du ikke har installert Notater-appen på serveren din, eller at noe er feilkonfigurert. Dette kan være forårsaket av tilpassede overstyringer i en .htaccess-fil eller av Communis-apper som OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Deaktiver alle batterioptimaliseringer for Communis og Notater-appen.</string>
+    <string name="error_dialog_min_version">Notater-androidappen krever at Communis-androidappen er minst versjon 3.18.</string>
     <string name="added_content">Lagt til \"%1$s\"</string>
     <string name="shared_text_empty">Delt tekst var tom</string>
     <string name="append_to_note">Legg til i notat</string>
@@ -221,7 +221,7 @@
     <string name="formatting_help_cbf_body_2">Bare velg et tekstområde eller trykk på markøren når som helst, så får du en popup-meny som inneholder ved siden av standardoppføringene %1$s, %2$s, %3$s oppføringer som %4$s eller %5$s.</string>
 
     <string name="formatting_help_text_title">Tekst</string>
-    <string name="formatting_help_text_body">Det er enkelt å lage noen ord %1$sFet%1$s og andre ord %2$sKursiv%2$s med Markdown. Du kan %3$sstreke%3$sgjennom noen or og til og med [lenke til Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Det er enkelt å lage noen ord %1$sFet%1$s og andre ord %2$sKursiv%2$s med Markdown. Du kan %3$sstreke%3$sgjennom noen or og til og med [lenke til Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Lister</string>
     <string name="formatting_help_lists_body_1">Noen ganger wil du ha nummererte lister:</string>
@@ -287,14 +287,14 @@
     <string name="simple_prev">Forrige</string>
     <string name="simple_backup">Sikkerhetskopi</string>
     <string name="backup">Vi oppdaget en uopprettelig tilstand i appen. Ta sikkerhetskopi av usynkroniserte endringer og tøm lagringen av Notater-appen.</string>
-    <string name="settings_notes_path_description">Mappe for å lagre notatene dine i Nextcloud</string>
+    <string name="settings_notes_path_description">Mappe for å lagre notatene dine i Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Ny notatmappe: %1$s</string>
     <string name="settings_file_suffix">Filetternavn</string>
-    <string name="settings_file_suffix_description">Filetternavn for nye notater i Nextcloud</string>
+    <string name="settings_file_suffix_description">Filetternavn for nye notater i Communis</string>
     <string name="settings_file_suffix_success">Nytt filsuffiks: %1$s</string>
     <string name="http_status_code">HTTP-statuskode: %1$d</string>
     <string name="progress_import_indeterminate">Importerer notater…</string>

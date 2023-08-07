@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">메모</string>
-    <string name="app_name_long">Nextcloud 메모</string>
+    <string name="app_name_long">Communis 메모</string>
     <string name="label_all_notes">모든 메모</string>
     <string name="label_favorites">즐겨찾기</string>
     <string name="action_create">새 메모</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">관리자</string>
     <string name="about_developers_title">개발자</string>
     <string name="about_translators_title">번역자</string>
-    <string name="about_translators_transifex">%1$s에 위치한 Nextcloud 커뮤니티</string>
+    <string name="about_translators_transifex">%1$s에 위치한 Communis 커뮤니티</string>
     <string name="about_testers_title">테스터</string>
     <string name="about_source_title">소스 코드</string>
     <string name="about_source">이 프로젝트는 깃허브에 호스팅 중입니다: %1$s</string>
     <string name="about_issues_title">문제점 보고</string>
     <string name="about_issues">GitHub 이슈 트래커에서 이 앱의 버그를 보고하거나 기능을 제안할 수 있습니다: %1$s</string>
     <string name="about_translate_title">번역</string>
-    <string name="about_translate">Transifex의 Nextcloud팀에 가입해서 번역을 도와주세요: %1$s</string>
+    <string name="about_translate">Transifex의 Communis팀에 가입해서 번역을 도와주세요: %1$s</string>
     <string name="about_app_license_title">앱 라이선스</string>
     <string name="about_app_license">이 앱은 GNU General Public License v3+로 배포됩니다.</string>
     <string name="about_app_license_button">라이선스 보기</string>
@@ -148,23 +148,23 @@
     <string name="simple_checkbox">체크 상자</string>
     <string name="unlock_notes">노트 잠금해제</string>
     <string name="error_dialog_title">세상에 - 무슨일이야?</string>
-    <string name="error_dialog_tip_token_mismatch_retry">앱을 종료하고 다시 시작해주십시오.  아마 Nextcloud에 잘못된 연결이 있었을 것입니다.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">문제가 지속되면 Nextcloud와 Nextcloud Notes 두 앱의 스토리지를 모두 지워 이 문제를 해결해보십시오.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">앱을 종료하고 다시 시작해주십시오.  아마 Communis에 잘못된 연결이 있었을 것입니다.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">문제가 지속되면 Communis와 Communis Notes 두 앱의 스토리지를 모두 지워 이 문제를 해결해보십시오.</string>
     <string name="error_dialog_tip_clear_storage">앱 정보를 열고 저장 공간 → 저장 공간 삭제를 선택하여 저장 공간을 지울 수 있습니다. ⚠️ 경고: 아직 동기화되지 않은 노트는 삭제됩니다!</string>
-    <string name="error_dialog_tip_files_outdated">당신의 Nextcloud 앱은 예전 버전입니다.  Play Store나 F-Droid에 가서 최신 버전을 다운로드 하십시오.</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloud 앱에 문제가 생겼습니다. Nextcloud 앱과 Nextcloud 노트 앱 둘 다 강제종료 해보십시오.</string>
+    <string name="error_dialog_tip_files_outdated">당신의 Communis 앱은 예전 버전입니다.  Play Store나 F-Droid에 가서 최신 버전을 다운로드 하십시오.</string>
+    <string name="error_dialog_tip_files_force_stop">Communis 앱에 문제가 생겼습니다. Communis 앱과 Communis 노트 앱 둘 다 강제종료 해보십시오.</string>
     <string name="error_dialog_tip_files_delete_storage">강제 종료가 도움이 되지 않는다면, 두 앱 모두의 저장공간을 비워보십시오.</string>
     <string name="error_dialog_timeout_instance">서버로부터 응답이 없습니다. 당신의 인스턴스가 잘 작동하는지 확인해 주십시오.</string>
     <string name="error_dialog_timeout_toggle">네트워크 연결상태를 확인하십시오. 와이파이와 데이터를 껐다 켜는 것이 종종 도움이 됩니다.</string>
     <string name="error_dialog_check_server">서버의 응답이 올바르지 않습니다. 웹 인터페이스를 통해 노트에 액세스할 수 있는지 확인해주십시오.</string>
-    <string name="error_dialog_check_server_logs">Nextcloud 설정에 문제가 있습니다. 서버 로그 파일을 살펴보시기 바랍니다.</string>
-    <string name="error_dialog_check_maintenance">Nextcloud 인스턴스가 현재 유지 보수 모드에 있지 않은지 확인해주십시오.</string>
-    <string name="error_dialog_insufficient_storage">Nextcloud 인스턴스에 사용 가능한 스토리지가 남아 있지 않습니다. 클라우드에 로컬 변경사항을 동기화하려면 일부 파일을 삭제해주십시오.</string>
+    <string name="error_dialog_check_server_logs">Communis 설정에 문제가 있습니다. 서버 로그 파일을 살펴보시기 바랍니다.</string>
+    <string name="error_dialog_check_maintenance">Communis 인스턴스가 현재 유지 보수 모드에 있지 않은지 확인해주십시오.</string>
+    <string name="error_dialog_insufficient_storage">Communis 인스턴스에 사용 가능한 스토리지가 남아 있지 않습니다. 클라우드에 로컬 변경사항을 동기화하려면 일부 파일을 삭제해주십시오.</string>
     <string name="error_dialog_we_need_info">귀하를 돕기 위해 다음 기술 정보가 필요합니다.</string>
     <string name="error_dialog_server_app_enabled">서버에 \"Notes\" 응용프로그램을 설치하고 사용 가능으로 설정했는지 확인하십시오.</string>
-    <string name="error_dialog_redirect">서버가 HTTP 302 상태 코드로 응답했습니다. 즉, 서버에 Notes 앱을 설치하지 않았거나 잘못 구성되었음을 의미합니다. 이 문제는 .htaccess 파일의 사용자 지정 재정의 또는 OID Client와 같은 Nextcloud 앱에서 발생할 수 있습니다.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Nextcloud 및 Notes 앱에 대한 모든 배터리 최적화를 비활성화해 주십시오.</string>
-    <string name="error_dialog_min_version">Notes Android 앱을 사용하려면 Nextcloud Android 앱이 버전 3.18 이상이어야 합니다.</string>
+    <string name="error_dialog_redirect">서버가 HTTP 302 상태 코드로 응답했습니다. 즉, 서버에 Notes 앱을 설치하지 않았거나 잘못 구성되었음을 의미합니다. 이 문제는 .htaccess 파일의 사용자 지정 재정의 또는 OID Client와 같은 Communis 앱에서 발생할 수 있습니다.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Communis 및 Notes 앱에 대한 모든 배터리 최적화를 비활성화해 주십시오.</string>
+    <string name="error_dialog_min_version">Notes Android 앱을 사용하려면 Communis Android 앱이 버전 3.18 이상이어야 합니다.</string>
     <string name="added_content">%1$s을(를) 추가함</string>
     <string name="shared_text_empty">공유 텍스트가 비어 있음</string>
     <string name="append_to_note">메모에 추가</string>
@@ -214,7 +214,7 @@
     <string name="formatting_help_cbf_body_2">텍스트 범위를 선택하거나 원하는 위치에서 커서를 누르면 기본 항목 %1$s, %2$s, %3$s 항목 옆에 %4$s 또는 %5$s와 같은 팝업 메뉴가 표시됩니다.</string>
 
     <string name="formatting_help_text_title">텍스트</string>
-    <string name="formatting_help_text_body">Markdown을 사용하면 %1$sbold%1$s라는 단어와 %2$sitalic%2$s라는 단어를 만드는 것은 매우 쉽습니다. [Nextcloud] (https://nextcloud.com)를 통해 일부 단어를 %3$sstrike%3$s할 수 있습니다.</string>
+    <string name="formatting_help_text_body">Markdown을 사용하면 %1$sbold%1$s라는 단어와 %2$sitalic%2$s라는 단어를 만드는 것은 매우 쉽습니다. [Communis] (https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/)를 통해 일부 단어를 %3$sstrike%3$s할 수 있습니다.</string>
 
     <string name="formatting_help_lists_title">목록</string>
     <string name="formatting_help_lists_body_1">번호가 매겨진 목록을 원할 때도 있습니다.</string>
@@ -279,10 +279,10 @@
     <string name="simple_prev">이전</string>
     <string name="simple_backup">백업</string>
     <string name="backup">앱의 복구 불가능한 상태를 감지했습니다. 동기화되지 않은 변경 사항을 백업하고 Notes 앱의 저장 공간을 비우십시오.</string>
-    <string name="settings_notes_path_description">Nextcloud에 노트를 저장할 폴더</string>
+    <string name="settings_notes_path_description">Communis에 노트를 저장할 폴더</string>
     <string name="settings_notes_path_success">새 노트 폴더: %1$s</string>
     <string name="settings_file_suffix">파일 확장자</string>
-    <string name="settings_file_suffix_description">Nextcloud의 새 노트에 대한 파일 확장자</string>
+    <string name="settings_file_suffix_description">Communis의 새 노트에 대한 파일 확장자</string>
     <string name="settings_file_suffix_success">새 파일 확장자: %1$s</string>
     <string name="http_status_code">HTTP 상태 코드: %1$d</string>
     <string name="progress_import_indeterminate">노트 불러오는 중...</string>

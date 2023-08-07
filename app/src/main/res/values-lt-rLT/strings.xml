@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Užrašai</string>
-    <string name="app_name_long">Nextcloud užrašai</string>
+    <string name="app_name_long">Communis užrašai</string>
     <string name="label_all_notes">Visi užrašai</string>
     <string name="label_favorites">Mėgstami</string>
     <string name="action_create">Nauji užrašai</string>
@@ -58,7 +58,7 @@
     <string name="about_maintainer_title">Prižiūrėtojas</string>
     <string name="about_developers_title">Plėtotojai</string>
     <string name="about_translators_title">Vertėjai</string>
-    <string name="about_translators_transifex">Nextcloud bendruomenė, esanti %1$s</string>
+    <string name="about_translators_transifex">Communis bendruomenė, esanti %1$s</string>
     <string name="about_testers_title">Testuotojai</string>
     <string name="about_source_title">Pradinis kodas</string>
     <string name="about_issues_title">Problemos</string>
@@ -119,21 +119,21 @@
     <string name="simple_checkbox">Žymimasis langelis</string>
     <string name="unlock_notes">Atrakinti užrašus</string>
     <string name="error_dialog_title">O, ne - Kas dabar? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Pabandykite priverstinai uždaryti programą ir vėl paleiskite ją iš naujo. Galbūt buvo nepavyko užmegžti ryšį su „Nextcloud“ programa.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Jei problema išlieka, pabandykite išvalyti abiejų programų saugyklą: „Nextcloud“ ir „Nextcloud Notes“.</string>
-    <string name="error_dialog_tip_files_outdated">Panašu, kad jūsų „Nextcloud“ programos versija yra pasenusi. Norėdami gauti naujausią versiją, apsilankykite „Google Play“ parduotuvėje arba „F-Droid“.</string>
-    <string name="error_dialog_tip_files_force_stop">Atrodo, kad kažkas negerai su jūsų „Nextcloud“ programa. Pabandykite priverstinai sustabdyti programas: „Nextcloud“ ir „Nextcloud Notes“.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Pabandykite priverstinai uždaryti programą ir vėl paleiskite ją iš naujo. Galbūt buvo nepavyko užmegžti ryšį su „Communis“ programa.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Jei problema išlieka, pabandykite išvalyti abiejų programų saugyklą: „Communis“ ir „Communis Notes“.</string>
+    <string name="error_dialog_tip_files_outdated">Panašu, kad jūsų „Communis“ programos versija yra pasenusi. Norėdami gauti naujausią versiją, apsilankykite „Google Play“ parduotuvėje arba „F-Droid“.</string>
+    <string name="error_dialog_tip_files_force_stop">Atrodo, kad kažkas negerai su jūsų „Communis“ programa. Pabandykite priverstinai sustabdyti programas: „Communis“ ir „Communis Notes“.</string>
     <string name="error_dialog_tip_files_delete_storage">Jei priverstinis programos sustabdymas nepadėjo, galite pabandyti išvalyti abiejų programų saugyklas.</string>
     <string name="error_dialog_timeout_instance">Jūsų serveris yra nepasiekiamas. Įsitikinkite, kad Jūsų programa veikia tinkamai.</string>
     <string name="error_dialog_timeout_toggle">Pasitikrinkite interneto tinklo ryšį. Gali būti naudinga perjungti mobiliųjų duomenų arba „Wi-Fi“ ryšį.</string>
     <string name="error_dialog_check_server">Atsakymas iš Jūsų serverio nebuvo teisingas. Patikrinkite, ar galite pasiekti savo užrašus naudodami žiniatinklio sąsają.</string>
-    <string name="error_dialog_check_server_logs">Kyla problemų dėl „Nextcloud“ programos nustatymų. Peržiūrėkite serverio sisteminio žurnalo įrašus.</string>
-    <string name="error_dialog_check_maintenance">Patikrinkite, ar jūsų „Nextcloud“ programa šiuo metu aptarnavimo režime.</string>
-    <string name="error_dialog_insufficient_storage">„Nextcloud“ programa nebeturi laisvos vietos saugykloje. Prašome, ištrinkite nereikalingus failus, kad lokalūs pakeitimai būtų sinchronizuoti su debesimi.</string>
+    <string name="error_dialog_check_server_logs">Kyla problemų dėl „Communis“ programos nustatymų. Peržiūrėkite serverio sisteminio žurnalo įrašus.</string>
+    <string name="error_dialog_check_maintenance">Patikrinkite, ar jūsų „Communis“ programa šiuo metu aptarnavimo režime.</string>
+    <string name="error_dialog_insufficient_storage">„Communis“ programa nebeturi laisvos vietos saugykloje. Prašome, ištrinkite nereikalingus failus, kad lokalūs pakeitimai būtų sinchronizuoti su debesimi.</string>
     <string name="error_dialog_we_need_info">Norint jums padėti, mums reikia techninės informacijos:</string>
     <string name="error_dialog_server_app_enabled">Įsitikinkite, kad įdiegėte ir įjungėte programą „Užrašai“ savo serveryje.</string>
-    <string name="error_dialog_redirect">Jūsų serverio atsakymas turi HTTP 302 klaidos kodą, tai reiškia, kad jūs neįdiegėte „Notes“ programos savo serveryje arba ji įdiegta netinkamai. Taip galėjo dėl nustatymų pakeitimų .htaccess faile arba „Nextcloud“ programos, tokios kaip OID klientas.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Išjunkite visus „Nextcloud“ ir „Notes“ programos akumuliatoriams optimizavimus.</string>
+    <string name="error_dialog_redirect">Jūsų serverio atsakymas turi HTTP 302 klaidos kodą, tai reiškia, kad jūs neįdiegėte „Notes“ programos savo serveryje arba ji įdiegta netinkamai. Taip galėjo dėl nustatymų pakeitimų .htaccess faile arba „Communis“ programos, tokios kaip OID klientas.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Išjunkite visus „Communis“ ir „Notes“ programos akumuliatoriams optimizavimus.</string>
     <string name="added_content">Pridėta \"%1$s\"</string>
     <string name="shared_text_empty">Pasidalintas tekstas buvo tuščias</string>
     <string name="append_to_note">Pridėti prie užrašų</string>

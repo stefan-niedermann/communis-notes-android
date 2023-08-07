@@ -66,7 +66,7 @@
     <string name="about_issues_title">مسائل</string>
     <string name="about_issues">شما می توانید اشکالات ، پیشنهادات پیشرفت و درخواست ویژگی را در ردیاب شماره GitHub گزارش دهید: %1$s</string>
     <string name="about_translate_title">ترجمه</string>
-    <string name="about_translate">در Transifex به تیم Nextcloud بپیوندید و در ترجمه این برنامه به ما کمک کنید: %1$s</string>
+    <string name="about_translate">در Transifex به تیم Communis بپیوندید و در ترجمه این برنامه به ما کمک کنید: %1$s</string>
     <string name="about_app_license_title">مجوز برنامه</string>
     <string name="about_app_license">این برنامه تحت مجوز GNU GENERAL PUBLIC LICENSE v3 + مجاز است.</string>
     <string name="about_app_license_button">مشاهده مجوز</string>
@@ -125,20 +125,20 @@
     <string name="unlock_notes">یادداشت‌های باز</string>
     <string name="error_dialog_title">وای نه - حالا چی کار کنیم؟</string>
     <string name="error_dialog_tip_token_mismatch_retry">لطفا از طریق توقف اجباری برنامه را بسته و دوباره اجرا کنید. ممکن است یک اتصال نادرست با نکست‌کلود ایجاد شده باشد.  </string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">اگر این مشکل استمرار داشت، سعی کنید با پاک کردن فضای ذخیره‌سازی هردو برنامک : Nextcloud و  Nextcloud Notes این مورد را برطرف کنید.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">اگر این مشکل استمرار داشت، سعی کنید با پاک کردن فضای ذخیره‌سازی هردو برنامک : Communis و  Communis Notes این مورد را برطرف کنید.</string>
     <string name="error_dialog_tip_files_outdated">ظاهرا برنامک یادداشت منسوخ شده است. لطفا آخرین نسخه را از Play Store  یا F-Droid دانلود کنید.</string>
-    <string name="error_dialog_tip_files_force_stop">به نظر می‌رسد که مشکلی در برنامک نکست‌کلود ایجاد شده است. لطفا سعی کنید با توقف اجباری هر دو برنامک Nextcloud app  و Nextcloud Notes   را ببندید.  </string>
+    <string name="error_dialog_tip_files_force_stop">به نظر می‌رسد که مشکلی در برنامک نکست‌کلود ایجاد شده است. لطفا سعی کنید با توقف اجباری هر دو برنامک Communis app  و Communis Notes   را ببندید.  </string>
     <string name="error_dialog_tip_files_delete_storage">"اگر توقف اجباری برنامه‌ها کمکی نکرد، می‌توانید پاک‌کردن فضای ذخیره‌سازی هردو برنامه را پاک کنید. "</string>
     <string name="error_dialog_timeout_instance">پاسخ از سمت سرور شما با نام داده شده دریافت نشد. لطفا بررسی کنید که نمونه شما به درستی کار می‌کند.</string>
     <string name="error_dialog_timeout_toggle">اتصال اینترنت خود را بررسی کنید. خاموش کردن اینترنت همراه و وای‌فای و روشن کردن مجدد آنها در برخی از مواقع می‌تواند کارساز باشد. </string>
     <string name="error_dialog_check_server">پاسخ درستی از سرور شما دریافت نشد. لطفا دسترسی به یادداشت‌های خود را از طریق وب بررسی کنید.</string>
-    <string name="error_dialog_check_server_logs"> مشکلی در نصب ابر Nextcloud وجود دارد. لطفا لاگ‌های سرور را بررسی کنید.</string>
+    <string name="error_dialog_check_server_logs"> مشکلی در نصب ابر Communis وجود دارد. لطفا لاگ‌های سرور را بررسی کنید.</string>
     <string name="error_dialog_check_maintenance">لطفا بررسی کنید که نسخه نکست‌کلود شما در حال حاضر در حالت تعمیر و نگهداری نباشد.</string>
     <string name="error_dialog_insufficient_storage">فضای برنامک نکست‌کلود شما پر شده است.لطفا یعضی از فایل‌های خود در را فضای ابری برای همگام‌سازی تغییرات محلی پاک کنید.  </string>
     <string name="error_dialog_we_need_info">ما برای کمک به شما احتیاج به دنبال کردن اطلاعات فنی داریم:</string>
     <string name="error_dialog_server_app_enabled">لطفا از نصب و فعال بودن برنامک یادداشت بر روی سرور، اطمینان حاصل کنید.</string>
-    <string name="error_dialog_redirect">پاسخ سرور شما کد حالت HTTP 302 است. که دلالت بر عدم نصب برنامک یادداشت بر روی سرور و یا پیکربندی نامناسب دارد. این مشکل می‌تواند به دلیل تغییرات نامناسب ایجاد شده در فایل .htaccess و یا به دلیل برنامه‌های مرتبط با Nextcloud مثل OID Client رخ دهد.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">لطفا تمامی فرایند‌های بهینه‌سازی مصرف باتری برای Nextcloud و Notes app   را غیر فعال کنید.</string>
+    <string name="error_dialog_redirect">پاسخ سرور شما کد حالت HTTP 302 است. که دلالت بر عدم نصب برنامک یادداشت بر روی سرور و یا پیکربندی نامناسب دارد. این مشکل می‌تواند به دلیل تغییرات نامناسب ایجاد شده در فایل .htaccess و یا به دلیل برنامه‌های مرتبط با Communis مثل OID Client رخ دهد.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">لطفا تمامی فرایند‌های بهینه‌سازی مصرف باتری برای Communis و Notes app   را غیر فعال کنید.</string>
     <string name="added_content">اضافه ‌شده %1$s</string>
     <string name="shared_text_empty">متن به اشتراک گذاشته‌شده خالی است</string>
     <string name="append_to_note">به یادداشت اضافه کنید</string>
@@ -173,7 +173,7 @@
     <string name="formatting_help_cbf_body_2">فقط کافی است یک دامنه متن را انتخاب کنید یا روی مکان نما در هر موقعیتی ضربه بزنید و یک منوی بازشونده دریافت می کنید که در کنار ورودی‌های پیش‌فرض %1$s و %2$s و %3$s شامل ورودی‌‌هایی مانند %4$s و %5$s می‌باشد.</string>
 
     <string name="formatting_help_text_title">متن</string>
-    <string name="formatting_help_text_body">به راحتی می‌توان با Markdown کلمات را به حالت %1$sbold%1$s و  کلمات دیگر را به حالت %2$sitalic%2$s درآورد. همچنین می‌توانید کلمات را به حالت %3$sstrike%3$s وحتی به صورت  [link to Nextcloud](https://nextcloud.com) درآورید:</string>
+    <string name="formatting_help_text_body">به راحتی می‌توان با Markdown کلمات را به حالت %1$sbold%1$s و  کلمات دیگر را به حالت %2$sitalic%2$s درآورد. همچنین می‌توانید کلمات را به حالت %3$sstrike%3$s وحتی به صورت  [link to Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/) درآورید:</string>
 
     <string name="formatting_help_lists_title">فهرست</string>
     <string name="formatting_help_lists_body_1">زمانی که قصد استفاده از فهرست با شماره دارید:</string>

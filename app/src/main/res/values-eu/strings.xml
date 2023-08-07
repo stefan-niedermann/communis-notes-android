@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Oharrak</string>
-    <string name="app_name_long">Nextcloud Oharrak</string>
+    <string name="app_name_long">Communis Oharrak</string>
     <string name="label_all_notes">Ohar guztiak</string>
     <string name="label_favorites">Gogokoak</string>
     <string name="action_create">Ohar berria</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Garatzaileak</string>
     <string name="about_developers_original_author">jatorrizko egilea</string>
     <string name="about_translators_title">Itzultzaileak</string>
-    <string name="about_translators_transifex">%1$s Nextcloud komunitatea</string>
+    <string name="about_translators_transifex">%1$s Communis komunitatea</string>
     <string name="about_testers_title">Probatzaileak</string>
     <string name="about_source_title">Iturburu-kodea</string>
     <string name="about_source">Proiektu hau GitHuben ostatatuta dago: %1$s</string>
     <string name="about_issues_title">Arazoak</string>
     <string name="about_issues">Akatsen berri eman, hobekuntzak proposatu eta ezaugarri berriak eska ditzakezu GitHub arazo kontrolatzailean: %1$s</string>
     <string name="about_translate_title">Itzuli</string>
-    <string name="about_translate">Elkartu Nextcloud taldera Transifexen eta lagundu app hau itzultzen: %1$s</string>
+    <string name="about_translate">Elkartu Communis taldera Transifexen eta lagundu app hau itzultzen: %1$s</string>
     <string name="about_app_license_title">Aplikazio lizentzia</string>
     <string name="about_app_license">Aplikazio hau GNU GENERAL PUBLIC LICENSE v3+ lizentziapean dago.</string>
     <string name="about_app_license_button">Ikusi lizentzia</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">Kontrol laukia</string>
     <string name="unlock_notes">Desblokeatu oharrak</string>
     <string name="error_dialog_title">Oh ez - Eta orain zer? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Saia zaitez aplikazioa itxi eta berrabiarazten. Agian Nextcloud aplikazioarekin gaizki konektatzea gertatu da.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Arazoak jarraitzen badu, saiatu bi aplikazioen biltegiak garbitzen: Nextcloud eta Nextcloud Oharrak aplikazioen biltegiak.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Saia zaitez aplikazioa itxi eta berrabiarazten. Agian Communis aplikazioarekin gaizki konektatzea gertatu da.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Arazoak jarraitzen badu, saiatu bi aplikazioen biltegiak garbitzen: Communis eta Communis Oharrak aplikazioen biltegiak.</string>
     <string name="error_dialog_tip_clear_storage">Biltegia garbi dezakezu aplikazioaren informazioa ireki eta hautatuz: Biltegia → Garbitu biltegia. ⚠️ Abisua: Honek oraindik sinkronizatuta ez dauden oharrak ezabatuko ditu!</string>
-    <string name="error_dialog_tip_files_outdated">Daukazun Nextcloud aplikazioa zaharkituta dagoela dirudi. Zoaz Play Store edo F-Droidera azken bertsioa lortzeko.</string>
-    <string name="error_dialog_tip_files_force_stop">Daukazun Nextcloud aplikazioan zerbait gaizki dabilela dirudi.  Saia zaitez Nextcloud aplikazioa eta Nextcloud Oharrak, biak, geldiarazten. </string>
+    <string name="error_dialog_tip_files_outdated">Daukazun Communis aplikazioa zaharkituta dagoela dirudi. Zoaz Play Store edo F-Droidera azken bertsioa lortzeko.</string>
+    <string name="error_dialog_tip_files_force_stop">Daukazun Communis aplikazioan zerbait gaizki dabilela dirudi.  Saia zaitez Communis aplikazioa eta Communis Oharrak, biak, geldiarazten. </string>
     <string name="error_dialog_tip_files_delete_storage">Geldiarazteak ez badu arazoa konpontzen, bi biltegiak garbitzen saia zaitezke.</string>
     <string name="error_dialog_timeout_instance">Ez da zerbitzariaren erantzunik jaso emandako denboran. Ziurta ezazu zure instantzia ondo dabilela.</string>
     <string name="error_dialog_timeout_toggle">Egiaztatu sarera konexiorik duzun. Batzuetan, mugikorreko datuak edo Wi-Fia kendu eta berriro jartzeak laguntzen du.</string>
     <string name="error_dialog_check_server">Zerbitzariaren erantzuna ez da zuzena izan. Egiazta ezazu ea zure oharrak atzitu ditzakezun web interfazearen bidez.</string>
-    <string name="error_dialog_check_server_logs">Arazo bat dago zure Nextcloud ezarpenekin. Eman begiratu bat zerbitzariko egunkari-fitxategiei.</string>
-    <string name="error_dialog_check_maintenance">Egiazta ezazu zure Nextcloud instantzia ez dagoela mantentze moduan une honetan.</string>
-    <string name="error_dialog_insufficient_storage">Zure Nextcloud instantziak ez du biltegiratze leku libre gehiagorik. Ezabatu fitxategi batzuk, aldaketa lokalak hodeiarekin sinkroniza daitezen.</string>
+    <string name="error_dialog_check_server_logs">Arazo bat dago zure Communis ezarpenekin. Eman begiratu bat zerbitzariko egunkari-fitxategiei.</string>
+    <string name="error_dialog_check_maintenance">Egiazta ezazu zure Communis instantzia ez dagoela mantentze moduan une honetan.</string>
+    <string name="error_dialog_insufficient_storage">Zure Communis instantziak ez du biltegiratze leku libre gehiagorik. Ezabatu fitxategi batzuk, aldaketa lokalak hodeiarekin sinkroniza daitezen.</string>
     <string name="error_dialog_we_need_info">Zuri laguntzeko hurrengo informazio teknikoa behar dugu:</string>
     <string name="error_dialog_server_app_enabled">Egiaztatu \"Oharrak\" aplikazioa instalatuta eta gaituta duzula zure zerbitzarian.</string>
     <string name="error_dialog_redirect">Zure zerbitzariak HTTP 302 egoera kodearekin erantzun du, honek esan nahi du ez duzula Oharrak aplikazioa zure zerbitzarian instalatu edo zerbait txarto konfiguratuta dagoela. Hau .htaccess fitxategi batean arau pertsonalizatuak daudelako edo OID Bezeroa izeneko aplikazioarengatik sortua izan daiteke. </string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Desgaitu bateria optimizazio guztiak Nextcloudentzat eta Oharrak aplikazioarentzat.</string>
-    <string name="error_dialog_min_version">Notes Android aplikazioak behar du Nextcloud Android aplikazioaren 3.18 bertsioa izatea gutxienez.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Desgaitu bateria optimizazio guztiak Communisentzat eta Oharrak aplikazioarentzat.</string>
+    <string name="error_dialog_min_version">Notes Android aplikazioak behar du Communis Android aplikazioaren 3.18 bertsioa izatea gutxienez.</string>
     <string name="added_content">\"%1$s\" gehituta</string>
     <string name="shared_text_empty">Partekatutako testua hutsik zegoen</string>
     <string name="append_to_note">Gehitu oharrari</string>
@@ -225,7 +225,7 @@
     <string name="formatting_help_cbf_body_2">Testuaren zati bat hautatu edo sakatu kurtsorea edozein tokitan eta popup menua agertuko zaizu, %1$s, %2$s eta %3$s bezalako sarrera lehenetsien ondoan %4$seta%5$s bezalakoak ere badituena.</string>
 
     <string name="formatting_help_text_title">Testua</string>
-    <string name="formatting_help_text_body">Oso erraza da hitz batzuk %1$slodi%1$s jartzea eta beste batzuk %2$setzatea%2$s Markdown erabiliz. Hitz batzuk %3$smarratu%3$s ditzakezu eta baita estekak gehitu ere [Nextcloudera joateko](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Oso erraza da hitz batzuk %1$slodi%1$s jartzea eta beste batzuk %2$setzatea%2$s Markdown erabiliz. Hitz batzuk %3$smarratu%3$s ditzakezu eta baita estekak gehitu ere [Communisera joateko](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Zerrendak</string>
     <string name="formatting_help_lists_body_1">Batzuetan zerrenda zenbakidunak nahi dituzu:</string>
@@ -291,14 +291,14 @@
     <string name="simple_prev">Aurrekoa</string>
     <string name="simple_backup">Babeskopia</string>
     <string name="backup">Aplikazioaren egoera berreskuraezina antzeman dugu. Mesedez, egin sinkronizatu gabeko aldaketen babeskopia eta garbitu Notes aplikazioaren biltegiratzea.</string>
-    <string name="settings_notes_path_description">Zure oharrak Nextclouden gordetzeko karpeta</string>
+    <string name="settings_notes_path_description">Zure oharrak Communisen gordetzeko karpeta</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Oharren karpeta berria: %1$s</string>
     <string name="settings_file_suffix">Fitxategi-luzapena</string>
-    <string name="settings_file_suffix_description">Zure Nextcloudeko ohar berrien fitxategi-luzapena</string>
+    <string name="settings_file_suffix_description">Zure Communiseko ohar berrien fitxategi-luzapena</string>
     <string name="settings_file_suffix_success">Fitxategi berrien luzapena: %1$s</string>
     <string name="http_status_code">HTTP egoera kodea: %1$d</string>
     <string name="progress_import_indeterminate">Oharrak inportatzen...</string>

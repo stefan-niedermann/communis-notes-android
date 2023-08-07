@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">ノート</string>
-    <string name="app_name_long">Nextcloud ノート</string>
+    <string name="app_name_long">Communis ノート</string>
     <string name="label_all_notes">すべてのノート</string>
     <string name="label_favorites">お気に入り</string>
     <string name="action_create">新しいノート</string>
@@ -61,14 +61,14 @@
     <string name="about_maintainer_title">管理者</string>
     <string name="about_developers_title">開発者</string>
     <string name="about_translators_title">翻訳者</string>
-    <string name="about_translators_transifex">%1$sのNextcloud コミュニティー</string>
+    <string name="about_translators_transifex">%1$sのCommunis コミュニティー</string>
     <string name="about_testers_title">テスター</string>
     <string name="about_source_title">ソースコード</string>
     <string name="about_source">このプロジェクトはGitHub:%1$sにホストされています。</string>
     <string name="about_issues_title">問題</string>
     <string name="about_issues">GitHub の問題追跡ツールで、不具合、拡張の提案、機能のリクエストを報告できます: %1$s</string>
     <string name="about_translate_title">翻訳</string>
-    <string name="about_translate">Transifex の Nextcloud チームに参加して、このアプリの翻訳を手伝ってください: %1$s</string>
+    <string name="about_translate">Transifex の Communis チームに参加して、このアプリの翻訳を手伝ってください: %1$s</string>
     <string name="about_app_license_title">アプリ ライセンス</string>
     <string name="about_app_license">このアプリケーションは GNU GENERAL PUBLIC LICENSE v3+ で許諾されています。</string>
     <string name="about_app_license_button">ライセンスを表示</string>
@@ -146,23 +146,23 @@
     <string name="simple_checkbox">チェックボックス</string>
     <string name="unlock_notes">ノートをアンロック</string>
     <string name="error_dialog_title">おやまあ、どうしたことでしょう？🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">アプリの強制終了と再起動を試みてください。Nextcloudアプリへの接続が正しくない接続があったかも知れません。</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">この問題が続くようでしたら、下記両方のアプリでストレージをクリアして問題が解決できるか試してください：Nextcloud と Nextcloud Notes</string>
+    <string name="error_dialog_tip_token_mismatch_retry">アプリの強制終了と再起動を試みてください。Communisアプリへの接続が正しくない接続があったかも知れません。</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">この問題が続くようでしたら、下記両方のアプリでストレージをクリアして問題が解決できるか試してください：Communis と Communis Notes</string>
     <string name="error_dialog_tip_clear_storage">アプリ情報を開き、次の手順を実施することでストレージを消去できます: ストレージ → ストレージを消去 ⚠️ 警告: この操作で、まだ同期されていないノートが消去されます！</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloudアプリが古いようです。プレイストアかF-Droidから最新版を入手してください。</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloudアプリで何か不具合が発生しました。NextcloudアプリとNextcloud Notesアプリの両方を強制終了してください。</string>
+    <string name="error_dialog_tip_files_outdated">Communisアプリが古いようです。プレイストアかF-Droidから最新版を入手してください。</string>
+    <string name="error_dialog_tip_files_force_stop">Communisアプリで何か不具合が発生しました。CommunisアプリとCommunis Notesアプリの両方を強制終了してください。</string>
     <string name="error_dialog_tip_files_delete_storage">強制終了で改善されない場合は、両方のアプリのストレージをクリアしてみてください。</string>
     <string name="error_dialog_timeout_instance">一定時間内にサーバーからの反応がありませんでした。サーバーが正常に動いているか確認してください。</string>
     <string name="error_dialog_timeout_toggle">ネットワーク接続を確認してください。モバイルデータやWi-Fiのオフ/オンを繰り返してみるとうまくいく場合があります。</string>
     <string name="error_dialog_check_server">サーバーからの反応が不正です。Webインターフェースからnotesにアクセス出来るか確認してください。</string>
-    <string name="error_dialog_check_server_logs">Nextcloudのセットアップに問題があります。サーバーのログファイルを確認してください。</string>
-    <string name="error_dialog_check_maintenance">Nextcloudサーバーがメンテナンスモード中かどうか確認してください。</string>
-    <string name="error_dialog_insufficient_storage">Nextcloudサーバーのストレージに空き容量がありません。ローカルの変更をクラウドに同期するには一部のファイルを削除してください。</string>
+    <string name="error_dialog_check_server_logs">Communisのセットアップに問題があります。サーバーのログファイルを確認してください。</string>
+    <string name="error_dialog_check_maintenance">Communisサーバーがメンテナンスモード中かどうか確認してください。</string>
+    <string name="error_dialog_insufficient_storage">Communisサーバーのストレージに空き容量がありません。ローカルの変更をクラウドに同期するには一部のファイルを削除してください。</string>
     <string name="error_dialog_we_need_info">サポートには下記技術情報が必要です：</string>
     <string name="error_dialog_server_app_enabled">ご利用のサーバーに ”Notes” プラグインアプリがインストールされ、有効になっていることを確認してください。</string>
-    <string name="error_dialog_redirect">サーバーがHTTPステータスコード 302を返しました。これはNotesアプリがインストールされていないか、構成が誤っていることを意味します。.htaccessファイルのカスタムオーバーライドやOIDクライアントのようなNextcloudアプリが原因の可能性があります。</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">NextcloudとNotesアプリに対してバッテリー最適化をすべて無効にしてください。</string>
-    <string name="error_dialog_min_version">ノート Androidアプリは、Nextcloud Androidアプリのバージョン3.18以上が必要です。</string>
+    <string name="error_dialog_redirect">サーバーがHTTPステータスコード 302を返しました。これはNotesアプリがインストールされていないか、構成が誤っていることを意味します。.htaccessファイルのカスタムオーバーライドやOIDクライアントのようなCommunisアプリが原因の可能性があります。</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">CommunisとNotesアプリに対してバッテリー最適化をすべて無効にしてください。</string>
+    <string name="error_dialog_min_version">ノート Androidアプリは、Communis Androidアプリのバージョン3.18以上が必要です。</string>
     <string name="added_content">\"%1$s\"に追加</string>
     <string name="shared_text_empty">共有テキストは空です</string>
     <string name="append_to_note">ノートに追記</string>
@@ -213,7 +213,7 @@
     <string name="formatting_help_cbf_body_2">テキストの範囲を選択するか、カーソルを任意の位置でタップすると、デフォルトのエントリ%1$s、%2$s、%3$sや%4$s、%5$sなどのエントリの横にあるポップアップメニューが表示されます。</string>
 
     <string name="formatting_help_text_title">テキスト</string>
-    <string name="formatting_help_text_body">マークダウンで単語を %1$s太字%1$s にしたり、%2$s斜体%2$s するのは簡単です。 その他、単語を%3$s打ち消し %3$s たり、[Nextcloudへリンク](https://nextcloud.com)することもできます。</string>
+    <string name="formatting_help_text_body">マークダウンで単語を %1$s太字%1$s にしたり、%2$s斜体%2$s するのは簡単です。 その他、単語を%3$s打ち消し %3$s たり、[Communisへリンク](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/)することもできます。</string>
 
     <string name="formatting_help_lists_title">リスト</string>
     <string name="formatting_help_lists_body_1">番号付きのリストにしたい場合には:</string>
@@ -278,14 +278,14 @@
     <string name="simple_prev">前へ</string>
     <string name="simple_backup">バックアップ</string>
     <string name="backup">アプリの回復不可能な状態を検知しました。同期されていない変更をバックアップし、ノートアプリのストレージの消去を実施してください。</string>
-    <string name="settings_notes_path_description">ノートを保管するNextcloud内のフォルダー</string>
+    <string name="settings_notes_path_description">ノートを保管するCommunis内のフォルダー</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">新規ノートフォルダー: %1$s</string>
     <string name="settings_file_suffix">ファイル拡張子</string>
-    <string name="settings_file_suffix_description">Nextcloud内の新しいノートのファイル拡張子</string>
+    <string name="settings_file_suffix_description">Communis内の新しいノートのファイル拡張子</string>
     <string name="settings_file_suffix_success">新規ファイル接尾辞: %1$s</string>
     <string name="http_status_code">HTTPステータスコード: %1$d</string>
     <string name="progress_import_indeterminate">ノートを導入しています…</string>

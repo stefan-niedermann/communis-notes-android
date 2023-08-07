@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Noter</string>
-    <string name="app_name_long">Nextcloud noter</string>
+    <string name="app_name_long">Communis noter</string>
     <string name="label_all_notes">Alle noter</string>
     <string name="label_favorites">Foretrukne</string>
     <string name="action_create">Ny note</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">Maintainer</string>
     <string name="about_developers_title">Udviklere</string>
     <string name="about_translators_title">Oversættere</string>
-    <string name="about_translators_transifex">Nextcloud fællesskabet på %1$s</string>
+    <string name="about_translators_transifex">Communis fællesskabet på %1$s</string>
     <string name="about_testers_title">Testere</string>
     <string name="about_source_title">Kildekode</string>
     <string name="about_source">Dette projekt hostes på GitHub: %1$s</string>
     <string name="about_issues_title">Problemer</string>
     <string name="about_issues">Du kan rapportere fejl, foreslå forbedringer og ønske nye funktioner på Github: %1$s</string>
     <string name="about_translate_title">Oversæt</string>
-    <string name="about_translate">Bliv en dal af Nextcloudholdet på Transifex, og hjælp os med at oversætte denne app: %1$s</string>
+    <string name="about_translate">Bliv en dal af Communisholdet på Transifex, og hjælp os med at oversætte denne app: %1$s</string>
     <string name="about_app_license_title">App licens</string>
     <string name="about_app_license">Denne applikation er licenseret under GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Vis licens</string>
@@ -132,20 +132,20 @@
     <string name="simple_checkbox">Afkrydsningsfelt</string>
     <string name="unlock_notes">Lås noter op</string>
     <string name="error_dialog_title">Åh nej - hvad nu? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Forsøg venligst at tvinge app\'en til at lukke og start den påny igen. Der kan have været en ukorrekt forbindelse til Nextcloud-app\'en.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Hvis problemet ikke løses, så forsøg at rydde lageret for begge apps: Nextcloud og Nextcloud Notes, for at løse problemet.</string>
-    <string name="error_dialog_tip_files_outdated">Din Nextcloud-app ser ud til at være forældet. Gå venligst til Play Butik eller F-Droid for at få seneste version.</string>
-    <string name="error_dialog_tip_files_force_stop">Det lader til at være noget galt med din Nextcloud-app. Forsøg venligst at gennemtvinge stop af både Nextcloud-app\'en og Nextcloud Notes-app\'en. </string>
+    <string name="error_dialog_tip_token_mismatch_retry">Forsøg venligst at tvinge app\'en til at lukke og start den påny igen. Der kan have været en ukorrekt forbindelse til Communis-app\'en.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Hvis problemet ikke løses, så forsøg at rydde lageret for begge apps: Communis og Communis Notes, for at løse problemet.</string>
+    <string name="error_dialog_tip_files_outdated">Din Communis-app ser ud til at være forældet. Gå venligst til Play Butik eller F-Droid for at få seneste version.</string>
+    <string name="error_dialog_tip_files_force_stop">Det lader til at være noget galt med din Communis-app. Forsøg venligst at gennemtvinge stop af både Communis-app\'en og Communis Notes-app\'en. </string>
     <string name="error_dialog_tip_files_delete_storage">Hvis det ikke hjælper at stoppe begge, så kan du forsøge at rydde lagerpladsen for begge apps.</string>
     <string name="error_dialog_timeout_instance">Der var intet svar fra din server på nuværende tidspunkt. Sørg venligst for at sikre, at din instans kører rigtigt. </string>
     <string name="error_dialog_timeout_toggle">Tjek din netværksforbindelse. Undertiden kan det hjælpe at slukke og tænde for mobildata eller wifi.</string>
     <string name="error_dialog_check_server">Svaret fra din server var ikke korrekt. Tjek venligst om du kan tilgå dine noter via webgrænsefladen.</string>
-    <string name="error_dialog_check_server_logs">Der er et problem med din opsætning af Nextcloud. Kig venligst i serverens logfiler. </string>
-    <string name="error_dialog_check_maintenance">Sørg venligst for at din Nextcloud-instans ikke er i vedligeholdelsestilstand. </string>
-    <string name="error_dialog_insufficient_storage">Din Nextcloud-instans har ikke mere ledig lagerplads. Slet venligst nogle filer for at synkronisere dine lokale ændringer ind i skyen.</string>
+    <string name="error_dialog_check_server_logs">Der er et problem med din opsætning af Communis. Kig venligst i serverens logfiler. </string>
+    <string name="error_dialog_check_maintenance">Sørg venligst for at din Communis-instans ikke er i vedligeholdelsestilstand. </string>
+    <string name="error_dialog_insufficient_storage">Din Communis-instans har ikke mere ledig lagerplads. Slet venligst nogle filer for at synkronisere dine lokale ændringer ind i skyen.</string>
     <string name="error_dialog_we_need_info">Vi har brug for følgende tekniske information for at hjælpe dig:</string>
     <string name="error_dialog_server_app_enabled">Tjek venligst, om du har installeret og aktiveret appen \"Noter\" på din server.</string>
-    <string name="error_dialog_redirect">Din server svarede med en HTTP 302-statuskode, hvilket betyder, at du endnu ikke har installeret app\'en Noter på din server, eller at der er en forkert konfiguration. Dette kan skyldes brugerdefinerede tilsidesættelser i en .htaccess-fil eller af apps fra Nextcloud som OID Client.</string>
+    <string name="error_dialog_redirect">Din server svarede med en HTTP 302-statuskode, hvilket betyder, at du endnu ikke har installeret app\'en Noter på din server, eller at der er en forkert konfiguration. Dette kan skyldes brugerdefinerede tilsidesættelser i en .htaccess-fil eller af apps fra Communis som OID Client.</string>
     <string name="added_content">Tilføjet \"%1$s\"</string>
     <string name="shared_text_empty">Den delte tekst var tom</string>
     <string name="append_to_note">Tilføj til note</string>
@@ -224,6 +224,6 @@
     <string name="simple_backup">Backup</string>
     <string name="settings_notes_path_success">Mappe for nye noter: %1$s</string>
     <string name="settings_file_suffix">Fil-endelse</string>
-    <string name="settings_file_suffix_description">Fil-endelse for nye noter i Nextcloud</string>
+    <string name="settings_file_suffix_description">Fil-endelse for nye noter i Communis</string>
     <string name="action_back">Tilbage</string>
     </resources>

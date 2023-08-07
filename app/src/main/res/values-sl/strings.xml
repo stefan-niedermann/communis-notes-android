@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Notes</string>
-    <string name="app_name_long">Nextcloud Notes</string>
+    <string name="app_name_long">Communis Notes</string>
     <string name="label_all_notes">Vse zabeležke</string>
     <string name="label_favorites">Priljubljene</string>
     <string name="action_create">Nova zabeležka</string>
@@ -66,14 +66,14 @@
     <string name="about_developers_title">Razvijalci</string>
     <string name="about_developers_original_author">izvorni avtor</string>
     <string name="about_translators_title">Prevajalci</string>
-    <string name="about_translators_transifex">Skupnost Nextcloud na %1$s</string>
+    <string name="about_translators_transifex">Skupnost Communis na %1$s</string>
     <string name="about_testers_title">Preizkuševalci</string>
     <string name="about_source_title">Izvorna koda</string>
     <string name="about_source">Projekt gostuje na GitHub: %1$s</string>
     <string name="about_issues_title">Odzivi</string>
     <string name="about_issues">Poročila o hroščih, predloge za izboljšave in prošnje za nove programske zmožnosti je mogoče objaviti na sledilniku GitHub: %1$s</string>
     <string name="about_translate_title">Prevodi</string>
-    <string name="about_translate">Pridružite se skupini Nextcloud na spletišču Transifex in pomagajte pri prevodu programa: %1$s</string>
+    <string name="about_translate">Pridružite se skupini Communis na spletišču Transifex in pomagajte pri prevodu programa: %1$s</string>
     <string name="about_app_license_title">Dovoljenje za uporabo</string>
     <string name="about_app_license">Program je objavljen pod pogoji Splošnega javnega dovoljenja (GNU GPL) različice 3 ali novejše.</string>
     <string name="about_app_license_button">Podrobno besedilo dovoljenja</string>
@@ -151,23 +151,23 @@
     <string name="simple_checkbox">Izbirno polje</string>
     <string name="unlock_notes">Odkleni zabeležke</string>
     <string name="error_dialog_title">Ojoj, kaj pa zdaj? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Poskusite vsiliti končanje programa in ga ponovno zagnati. Morda je težava v neustrezni povezavi z okoljem Nextcloud</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Če se težava še naprej pojavlja, poskusite počistiti podatke programa Nextcloud in Nextcloud Notes.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Poskusite vsiliti končanje programa in ga ponovno zagnati. Morda je težava v neustrezni povezavi z okoljem Communis</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Če se težava še naprej pojavlja, poskusite počistiti podatke programa Communis in Communis Notes.</string>
     <string name="error_dialog_tip_clear_storage">Shrambo je mogoče počistiti med podrobnostmi programa Shramba → Počisti shrambo. ⚠️ Opozorilo: s tem izbrišete tudi zabeležke, ki še niso usklajene!</string>
-    <string name="error_dialog_tip_files_outdated">Program Nextcloud je očitno starejše različice. Posodobite jo prek Trgovine Play ali s posodabljalnikom F-Droid.</string>
-    <string name="error_dialog_tip_files_force_stop">Kaže, da je nekaj narobe s programom Nextcloud. Poskusite vsiljeno zaustaviti programa Nextcloud in Nextcloud Notes.</string>
+    <string name="error_dialog_tip_files_outdated">Program Communis je očitno starejše različice. Posodobite jo prek Trgovine Play ali s posodabljalnikom F-Droid.</string>
+    <string name="error_dialog_tip_files_force_stop">Kaže, da je nekaj narobe s programom Communis. Poskusite vsiljeno zaustaviti programa Communis in Communis Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Vsiljeno zaustavljanje ni imelo ustreznega učinka. Poskusite lahko še počistiti podatke shrambe obeh programov.</string>
     <string name="error_dialog_timeout_instance">V podanem času program ni pridobil ustreznega odziva strežnika. Prepričajte se, da program deluje pravilno.</string>
     <string name="error_dialog_timeout_toggle">Preverite omrežno povezavo. Včasih preklapljanje med mobilnimi in Wi-Fi podatki razreši težavo.</string>
     <string name="error_dialog_check_server">Prejet je napačen odziv s strežnika. Preverite, ali imate dostop do zabeležk prek spletnega vmesnika.</string>
-    <string name="error_dialog_check_server_logs">Prišlo je do napake z namestitvijo Nextcloud. Preverite zapis dnevnika na strežniku.</string>
-    <string name="error_dialog_check_maintenance">Preverite, ali je morda namestitev Nextcloud trenutno v vzdrževalnem načinu.</string>
+    <string name="error_dialog_check_server_logs">Prišlo je do napake z namestitvijo Communis. Preverite zapis dnevnika na strežniku.</string>
+    <string name="error_dialog_check_maintenance">Preverite, ali je morda namestitev Communis trenutno v vzdrževalnem načinu.</string>
     <string name="error_dialog_insufficient_storage">V shrambi ni več prostora. Za nadaljevanje usklajevanja z oblakom je treba Izbrisati nekaj krajevnih datotek.</string>
     <string name="error_dialog_we_need_info">Z ustrezno pomoč potrebujemo nekaj tehničnih podrobnosti sistema:</string>
     <string name="error_dialog_server_app_enabled">Prepričajte se, da ste namestili in omogočili tudi program »Notes« na strežniku.</string>
     <string name="error_dialog_redirect">S strežnika je prejet odziv s kodo stanja HTTP 302, kar kaže na to, da program Notes ni nameščen, ali pa je napačno nastavljen. Napaka se pojavi tudi pri nekaterih določilih v datoteki .htaccess oziroma programih, kot je odjemalec OID.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Onemogočite vso optimizacijo porabe baterije za programa Nextcloud in Notes.</string>
-    <string name="error_dialog_min_version">Program Notes za okolje Android zahteva vsaj različico Nextcloud 3.18.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Onemogočite vso optimizacijo porabe baterije za programa Communis in Notes.</string>
+    <string name="error_dialog_min_version">Program Notes za okolje Android zahteva vsaj različico Communis 3.18.</string>
     <string name="added_content">Dodano »%1$s«</string>
     <string name="shared_text_empty">Besedilo v souporabi je brez vsebine</string>
     <string name="append_to_note">Pripni k zabeležki</string>
@@ -233,7 +233,7 @@
     <string name="formatting_help_cbf_body_2">Enostavno izberite besedilo, ali pa pritisnite na kazalko, in pojavil se bo meni, ki vključuje ob privzetih možnosti %1$s, %2$s, %3$s tudi take, kot sta %4$s in %5$s.</string>
 
     <string name="formatting_help_text_title">Besedilo</string>
-    <string name="formatting_help_text_body">Z oblikovnim jezikom Markdown je besede zelo enostavno zapisati %1$skrepko%1$s oziroma %2$sležeče%2$s. Besede je mogoče tudi %3$sprečrtati%3$s in celo vpisati povezavo do na primer [spletišča Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Z oblikovnim jezikom Markdown je besede zelo enostavno zapisati %1$skrepko%1$s oziroma %2$sležeče%2$s. Besede je mogoče tudi %3$sprečrtati%3$s in celo vpisati povezavo do na primer [spletišča Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Seznami</string>
     <string name="formatting_help_lists_body_1">Včasih pridejo prav oštevilčeni seznami:</string>
@@ -301,14 +301,14 @@
     <string name="simple_prev">Predhodno</string>
     <string name="simple_backup">Varnostna kopija</string>
     <string name="backup">Zaznano je neobnovljivo stanje delovanja programa. Ustvarite varnostno kopijo neusklajenih sprememb in počistite shrambo programa Beležka.</string>
-    <string name="settings_notes_path_description">Mapa za shranjevanje sporočilc v okolju Nextcloud</string>
+    <string name="settings_notes_path_description">Mapa za shranjevanje sporočilc v okolju Communis</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Nova mapa sporočilc: %1$s</string>
     <string name="settings_file_suffix">Pripona datotek</string>
-    <string name="settings_file_suffix_description">Privzeta pripona za nova sporočilca v okolju Nextcloud</string>
+    <string name="settings_file_suffix_description">Privzeta pripona za nova sporočilca v okolju Communis</string>
     <string name="settings_file_suffix_success">Nova pripona datotek: %1$s</string>
     <string name="http_status_code">Stanje kode HTTP: %1$d</string>
     <string name="progress_import_indeterminate">Poteka uvažanje sporočilc ...</string>

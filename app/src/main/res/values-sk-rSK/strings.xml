@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Poznámky</string>
-    <string name="app_name_long">Nextcloud poznámky</string>
+    <string name="app_name_long">Communis poznámky</string>
     <string name="label_all_notes">Všetky poznámky</string>
     <string name="label_favorites">Obľúbené</string>
     <string name="action_create">Nová poznámka</string>
@@ -64,14 +64,14 @@
     <string name="about_maintainer_title">Udržovateľ</string>
     <string name="about_developers_title">Vývojári</string>
     <string name="about_translators_title">Prekladatelia</string>
-    <string name="about_translators_transifex">Nextcloud komunita na %1$s</string>
+    <string name="about_translators_transifex">Communis komunita na %1$s</string>
     <string name="about_testers_title">Testeri</string>
     <string name="about_source_title">Zdrojový kód</string>
     <string name="about_source">Tento projekt sa nachádza na sieti GitHub: %1$s</string>
     <string name="about_issues_title">Problémy</string>
     <string name="about_issues">Hlásenia chýb, návrhy na vylepšenia a požiadavky na funkcie môžete nahlásiť na GitHub: %1$s</string>
     <string name="about_translate_title">Preložiť</string>
-    <string name="about_translate">Pripojte sa k tímu Nextcloud na stránke Transifex a pomožte nám s prekladom tejto apky: %1$s</string>
+    <string name="about_translate">Pripojte sa k tímu Communis na stránke Transifex a pomožte nám s prekladom tejto apky: %1$s</string>
     <string name="about_app_license_title">Licencia aplikácie</string>
     <string name="about_app_license">Táto aplikácie je licencovaná pod GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">Zobraziť licenciu</string>
@@ -149,23 +149,23 @@
     <string name="simple_checkbox">Zaškrtávacie políčko</string>
     <string name="unlock_notes">Odomknúť poznámky</string>
     <string name="error_dialog_title">Ale nie - Čo teraz? 🙁</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Skúste vyinútiť zatvorenie aplikácie a znova ju reštartovať. Možno došlo k chybnému pripojeniu k aplikácii Nextcloud.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Ak problém pretrváva, skúste vyčistiť úložisko oboch aplikácií: Nextcloud a Nextcloud Poznámky.</string>
+    <string name="error_dialog_tip_token_mismatch_retry">Skúste vyinútiť zatvorenie aplikácie a znova ju reštartovať. Možno došlo k chybnému pripojeniu k aplikácii Communis.</string>
+    <string name="error_dialog_tip_token_mismatch_clear_storage">Ak problém pretrváva, skúste vyčistiť úložisko oboch aplikácií: Communis a Communis Poznámky.</string>
     <string name="error_dialog_tip_clear_storage">Úložisko môžete vyčistiť otvorením informácii o aplikácii a výberom Úložisko → Vyčistiť úložisko. ⚠️ Varovanie: Toto vymaže poznámky ktore ešte neboli synchronizované!</string>
-    <string name="error_dialog_tip_files_outdated">Váš Nextcloud vyzerá byť zastaralý. Navštívte Play Store alebo F-Droid pre získanie najnovšej verzie.</string>
-    <string name="error_dialog_tip_files_force_stop">Niečo s vašim Nextcloudom nie je v poriadku. Skúste vynútiť ukončenie aplikácií Nextcloud a Nextcloud Poznámky.</string>
+    <string name="error_dialog_tip_files_outdated">Váš Communis vyzerá byť zastaralý. Navštívte Play Store alebo F-Droid pre získanie najnovšej verzie.</string>
+    <string name="error_dialog_tip_files_force_stop">Niečo s vašim Communisom nie je v poriadku. Skúste vynútiť ukončenie aplikácií Communis a Communis Poznámky.</string>
     <string name="error_dialog_tip_files_delete_storage">Ak ich ukončenie nepomôže, môžete skúsiť vyčistiť úložiská oboch aplikácií.</string>
     <string name="error_dialog_timeout_instance">Server dlho neodpovedal. Uistite sa, vami využívaná inštancia funguje dobre.</string>
     <string name="error_dialog_timeout_toggle">Skontrolujte pripojenie k sieti. Niekedy pomôže vypnutie a znovu zapnutie mobilných dát alebo Wi-Fi.</string>
     <string name="error_dialog_check_server">Odpoveď servera nebola správna. Skontrolujte, či máte prístup k svojím poznámkam pomocou webového rozhrania.</string>
-    <string name="error_dialog_check_server_logs">V nastavení vášho Nextcloudu je problém. Skontrolujte súbor so záznamom udalostí na serveri.</string>
-    <string name="error_dialog_check_maintenance">Prosím skontrolujte, či vaša inštancia Nextcloudu nie je práve v móde údržby.</string>
+    <string name="error_dialog_check_server_logs">V nastavení vášho Communisu je problém. Skontrolujte súbor so záznamom udalostí na serveri.</string>
+    <string name="error_dialog_check_maintenance">Prosím skontrolujte, či vaša inštancia Communisu nie je práve v móde údržby.</string>
     <string name="error_dialog_insufficient_storage">Vo vašej inštancii Nexcloudu nie je na úložisku voľné miesto. Aby bolo možné synchronizovať vaše miestne zmeny s vaším cloudom, je potrebné najprv zmazať niektoré súbory.</string>
     <string name="error_dialog_we_need_info">Aby sme vám pomohli, potrebujeme následovné technické informácie:</string>
     <string name="error_dialog_server_app_enabled">Uistite sa, že ste na serveri nainštalovali a povolili aplikáciu Poznámky.</string>
-    <string name="error_dialog_redirect">Váš server odpovedal stavovým kódom HTTP 302, čo znamená, že na svojom serveri nemáte nainštalovanú aplikáciu Notes alebo je niečo nesprávne nastavené. Môže to byť spôsobené vlastnými zmenami v súbore .htaccess alebo aplikáciami Nextcloud, ako je OID Client.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Vypnite všetky optimalizácie batérie pre aplikácie Nextcloud a Poznámky.</string>
-    <string name="error_dialog_min_version">Aplikácia Notes pre Android potrebuje aplikáciu Nextcloud pre android aspoň vo verzii 3.18.</string>
+    <string name="error_dialog_redirect">Váš server odpovedal stavovým kódom HTTP 302, čo znamená, že na svojom serveri nemáte nainštalovanú aplikáciu Notes alebo je niečo nesprávne nastavené. Môže to byť spôsobené vlastnými zmenami v súbore .htaccess alebo aplikáciami Communis, ako je OID Client.</string>
+    <string name="error_dialog_tip_disable_battery_optimizations">Vypnite všetky optimalizácie batérie pre aplikácie Communis a Poznámky.</string>
+    <string name="error_dialog_min_version">Aplikácia Notes pre Android potrebuje aplikáciu Communis pre android aspoň vo verzii 3.18.</string>
     <string name="added_content">Pridané \"%1$s\"</string>
     <string name="shared_text_empty">Zdieľaný text bol prázdny</string>
     <string name="append_to_note">Pripojiť k poznámke</string>
@@ -228,7 +228,7 @@
     <string name="formatting_help_cbf_body_2">Stačí si vybrať rozsah textu alebo ťuknúť na kurzor na ktorejkoľvek pozícii a dostanete vyskakovacie menu, ktoré obsahuje tieto východzie položky %1$s, %2$s, %3$s položky ako %4$s alebo %5$s.</string>
 
     <string name="formatting_help_text_title">Text</string>
-    <string name="formatting_help_text_body">Pomocou Markdown ľahké urobiť pár slov %1$stučným písmom%1$s a iných slov %2$skurzívou%2$s. Niektoré slová môžete %3$sprečiarknuť%3$s a dokonca [odkaz na Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Pomocou Markdown ľahké urobiť pár slov %1$stučným písmom%1$s a iných slov %2$skurzívou%2$s. Niektoré slová môžete %3$sprečiarknuť%3$s a dokonca [odkaz na Communis](https://www.erzbistum-koeln.de/presse_und_medien/internet/administration/cloud/).</string>
 
     <string name="formatting_help_lists_title">Zoznamy</string>
     <string name="formatting_help_lists_body_1">Niekedy chcete číslované zoznamy:</string>
@@ -296,14 +296,14 @@
     <string name="simple_prev">Predchádzajúce</string>
     <string name="simple_backup">Záloha</string>
     <string name="backup">Detekovaný nenávratný stav aplikácie. Prosím zazálohujte vaše nesynchronizované zmeny a vyčistite úložisko aplikácie Notes.</string>
-    <string name="settings_notes_path_description">Priečinok pre uloženie vašich poznámok vo vašom Nextcloude</string>
+    <string name="settings_notes_path_description">Priečinok pre uloženie vašich poznámok vo vašom Communise</string>
     <string-array name="settings_file_suffixes">
         <item translatable="false">.txt</item>
         <item translatable="false">.md</item>
     </string-array>
     <string name="settings_notes_path_success">Priečinok pre nové poznámky: %1$s</string>
     <string name="settings_file_suffix">Prípona súboru</string>
-    <string name="settings_file_suffix_description">Prípona súboru pre nové poznámky vo vašom Nextcloude</string>
+    <string name="settings_file_suffix_description">Prípona súboru pre nové poznámky vo vašom Communise</string>
     <string name="settings_file_suffix_success">Nová prípona súboru: %1$s</string>
     <string name="http_status_code">HTTP kód stavu: %1$d</string>
     <string name="progress_import_indeterminate">Import poznámok…</string>
