@@ -9,7 +9,7 @@ public class Capabilities {
 
     private String apiVersion = null;
     @ColorInt
-    private int color = -16743735; // #0082C9
+    private int color = -5599488; // #AA8F00
     @ColorInt
     private int textColor = Color.WHITE;
     @Nullable

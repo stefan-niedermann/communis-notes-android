@@ -43,8 +43,8 @@ public class Account implements Serializable {
     @Nullable
     private String apiVersion;
     @ColorInt
-    @ColumnInfo(defaultValue = "-16743735")
-    private int color = Color.parseColor("#0082C9");
+    @ColumnInfo(defaultValue = "-5599488")
+    private int color = Color.parseColor("#AA8F00");
     @ColorInt
     @ColumnInfo(defaultValue = "-16777216")
     private int textColor = Color.WHITE;
