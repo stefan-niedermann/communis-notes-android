@@ -53,6 +53,10 @@ android {
         play {
             dimension "version"
         }
+        communis {
+            dimension "version"
+            applicationIdSuffix ".communis"
+        }
     }
 
     testOptions {
@@ -77,7 +81,7 @@ dependencies {
 
     // Nextcloud SSO
     implementation 'com.github.nextcloud.android-common:ui:0.12.0'
-    implementation 'com.github.nextcloud:Android-SingleSignOn:0.8.1'
+    implementation 'com.github.stefan-niedermann:communis-sso:0.7.0-communis.5'
     implementation 'com.github.stefan-niedermann:android-commons:0.2.9'
     implementation "com.github.stefan-niedermann.nextcloud-commons:sso-glide:$commonsVersion"
     implementation "com.github.stefan-niedermann.nextcloud-commons:exception:$commonsVersion"
