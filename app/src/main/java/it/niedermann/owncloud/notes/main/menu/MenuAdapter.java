@@ -78,10 +78,8 @@ public class MenuAdapter extends RecyclerView.Adapter<MenuViewHolder> {
         // https://github.com/nextcloud/android/pull/8405#issuecomment-852966877
         final int minVersionCode = 30170090;
         try {
-            if (VersionCheckHelper.getNextcloudFilesVersionCode(context, FilesAppType.PROD) > minVersionCode) {
+            if (VersionCheckHelper.getNextcloudFilesVersionCode(context, FilesAppType.COMMUNIS) > minVersionCode) {
                 return generateTrashbinAppIntent(context, account, true);
-            } else if (VersionCheckHelper.getNextcloudFilesVersionCode(context, FilesAppType.DEV) > minVersionCode) {
-                return generateTrashbinAppIntent(context, account, false);
             } else {
                 // Files app is too old to be able to switch the account when launching the TrashbinActivity
                 return generateTrashbinWebIntent(account);
@@ -94,7 +92,7 @@ public class MenuAdapter extends RecyclerView.Adapter<MenuViewHolder> {
 
     private static Intent generateTrashbinAppIntent(@NonNull Context context, @NonNull Account account, boolean prod) throws PackageManager.NameNotFoundException {
         final var packageManager = context.getPackageManager();
-        final String packageName = prod ? FilesAppType.PROD.packageId : FilesAppType.DEV.packageId;
+        final String packageName = FilesAppType.COMMUNIS.packageId;
         final var intent = new Intent();
         intent.setClassName(packageName, "com.owncloud.android.ui.trashbin.TrashbinActivity");
         if (packageManager.resolveActivity(intent, 0) != null) {
