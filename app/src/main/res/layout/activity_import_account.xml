@@ -23,7 +23,7 @@
             android:layout_marginBottom="32dp"
             android:contentDescription="@null"
             android:tint="@color/fg_secondary"
-            app:srcCompat="@mipmap/ic_launcher" />
+            app:srcCompat="@drawable/ic_launcher_foreground_full" />
 
         <TextView
             android:id="@+id/welcome_text"
@@ -46,6 +46,7 @@
             android:paddingHorizontal="32dp"
             android:paddingVertical="@dimen/spacer_3x"
             android:text="@string/choose_account"
+            android:textColor="@android:color/white"
             app:backgroundTint="@color/defaultBrand" />
 
         <TextView

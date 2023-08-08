@@ -9,15 +9,13 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="96dp"
         android:layout_above="@id/empty_content_view_title"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="10dp"
         android:contentDescription="@null"
-        android:scaleX="1.5"
-        android:scaleY="1.5"
-        android:src="@mipmap/ic_launcher"
-        app:tint="@color/fg_default_high" />
+        android:src="@drawable/ic_launcher_foreground_full"
+        app:tint="@color/fg_secondary" />
 
     <TextView
         android:id="@+id/empty_content_view_title"

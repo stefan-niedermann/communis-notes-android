@@ -58,11 +58,11 @@
 
             <ImageView
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="96dp"
                 android:layout_marginTop="@dimen/spacer_2x"
                 android:adjustViewBounds="true"
                 android:contentDescription="@null"
-                android:src="@mipmap/ic_launcher" />
+                android:src="@drawable/ic_launcher_foreground_full" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
