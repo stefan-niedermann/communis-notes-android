@@ -164,7 +164,7 @@
         <service
             android:name=".quicksettings.NewNoteTileService"
             android:description="@string/action_create"
-            android:icon="@mipmap/ic_launcher"
+            android:icon="@drawable/ic_new_note_tile"
             android:label="@string/action_create"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE"
             android:exported="true">
